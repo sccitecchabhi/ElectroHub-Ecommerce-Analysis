@@ -1,0 +1,1009 @@
+﻿Product_ID,Category,Sub_Category,Product_Name,Selling_Price_INR,Cost_INR,Stock_Quantity,Product_Rating,Review_Count
+P00001,Electronics,Smartphones,HomeEase Smartphones 01,38963.91,19508.25,735,3.9,462
+P00002,Electronics,Smartphones,GlowCare Smartphones 02,34712.88,20542.94,770,4.8,518
+P00003,Electronics,Smartphones,Zenith Smartphones 03,64020.56,33079.73,199,3.6,2011
+P00004,Electronics,Smartphones,GlowCare Smartphones 04,51064.49,27504.86,636,3.7,3095
+P00005,Electronics,Smartphones,ByteMax Smartphones 05,62372.69,37007.43,216,4.5,1255
+P00006,Electronics,Smartphones,NovaTech Smartphones 06,78408.59,47223.62,431,3.9,4773
+P00007,Electronics,Smartphones,Aarohi Smartphones 07,37547.51,21208.99,239,4.4,3271
+P00008,Electronics,Smartphones,ByteMax Smartphones 08,876.59,645.73,789,4.4,1550
+P00009,Electronics,Smartphones,FitPro Smartphones 09,18140.6,13406.15,39,3.9,3196
+P00010,Electronics,Smartphones,Aarohi Smartphones 10,62923.52,48390.56,866,3.7,3264
+P00011,Electronics,Smartphones,DailyKart Smartphones 11,1235.43,803.81,158,3.6,946
+P00012,Electronics,Smartphones,DailyKart Smartphones 12,913.94,703.62,781,3.6,3422
+P00013,Electronics,Smartphones,Aarohi Smartphones 13,19463.49,10396.84,542,4,4106
+P00014,Electronics,Smartphones,Aarohi Smartphones 14,6607.02,3522.56,851,4.4,4199
+P00015,Electronics,Smartphones,HomeEase Smartphones 15,68218.15,37413.83,276,4.3,3417
+P00016,Electronics,Smartphones,NovaTech Smartphones 16,32380.01,23306.17,925,4.5,4331
+P00017,Electronics,Smartphones,GlowCare Smartphones 17,1559.2,976.88,832,3.5,4765
+P00018,Electronics,Smartphones,NovaTech Smartphones 18,46087.7,34655.33,135,3.7,4958
+P00019,Electronics,Smartphones,DailyKart Smartphones 19,87318.03,48375.59,993,4.6,2236
+P00020,Electronics,Smartphones,DailyKart Smartphones 20,74563.13,58123.56,489,4.2,4191
+P00021,Electronics,Smartphones,Zenith Smartphones 21,29023.29,14968.22,700,4.7,646
+P00022,Electronics,Smartphones,Zenith Smartphones 22,67841.05,49756,925,4,1754
+P00023,Electronics,Smartphones,UrbanNest Smartphones 23,42952.36,22236.49,186,3.8,4452
+P00024,Electronics,Smartphones,ByteMax Smartphones 24,26739.77,15047.61,409,3.5,4321
+P00025,Electronics,Smartphones,ByteMax Smartphones 25,41519.83,25889.54,442,4.8,4152
+P00026,Electronics,Smartphones,Aarohi Smartphones 26,77536.64,55324.31,630,3.7,1953
+P00027,Electronics,Smartphones,GlowCare Smartphones 27,14567.37,8544.64,726,3.5,4202
+P00028,Electronics,Smartphones,UrbanNest Smartphones 28,63759.02,42076.51,231,4.5,3484
+P00029,Electronics,Smartphones,Aarohi Smartphones 29,21442.71,13585.48,686,4.2,2939
+P00030,Electronics,Smartphones,ByteMax Smartphones 30,30595.86,23197.18,676,3.9,4135
+P00031,Electronics,Smartphones,UrbanNest Smartphones 31,56606.85,31131.82,49,3.5,4573
+P00032,Electronics,Smartphones,Zenith Smartphones 32,14371.12,10553.51,475,4,4248
+P00033,Electronics,Smartphones,NovaTech Smartphones 33,82509.39,63082.57,240,3.6,1988
+P00034,Electronics,Smartphones,ByteMax Smartphones 34,14634.31,8986.27,776,3.4,125
+P00035,Electronics,Smartphones,ByteMax Smartphones 35,8542.72,5126.71,500,4.7,2894
+P00036,Electronics,Smartphones,GlowCare Smartphones 36,22513.7,15482.44,387,4.3,2345
+P00037,Electronics,Smartphones,HomeEase Smartphones 37,44954.52,28527.85,118,3.6,1292
+P00038,Electronics,Smartphones,GlowCare Smartphones 38,31993.68,15640.03,492,4.8,3044
+P00039,Electronics,Smartphones,UrbanNest Smartphones 39,53863.83,30840.78,956,3.4,1204
+P00040,Electronics,Smartphones,Zenith Smartphones 40,61950.31,45699.53,413,4.7,603
+P00041,Electronics,Smartphones,DailyKart Smartphones 41,55698.21,42297.19,968,3.7,4134
+P00042,Electronics,Smartphones,Vistara Smartphones 42,88126.65,45631.79,805,3.9,3762
+P00043,Electronics,Laptops,FitPro Laptops 01,67511.82,35565.44,793,4.1,856
+P00044,Electronics,Laptops,Zenith Laptops 02,32849.24,17643.49,886,3.7,1540
+P00045,Electronics,Laptops,HomeEase Laptops 03,20720.08,11970.41,316,4.8,3946
+P00046,Electronics,Laptops,DailyKart Laptops 04,59747.98,35097.45,514,4.4,1799
+P00047,Electronics,Laptops,GlowCare Laptops 05,19062.84,13715.5,470,4.9,2141
+P00048,Electronics,Laptops,Vistara Laptops 06,19206.97,14905.68,983,4.8,2840
+P00049,Electronics,Laptops,Zenith Laptops 07,56640.2,39089.83,482,4.8,4994
+P00050,Electronics,Laptops,DailyKart Laptops 08,40047.49,19888.02,342,4.1,3594
+P00051,Electronics,Laptops,NovaTech Laptops 09,82250.84,55987.37,405,4.3,3756
+P00052,Electronics,Laptops,FitPro Laptops 10,12382.62,8272.31,949,4.1,1401
+P00053,Electronics,Laptops,ByteMax Laptops 11,85197.65,63671.91,734,4.8,587
+P00054,Electronics,Laptops,GlowCare Laptops 12,20128.84,10181.58,851,4.4,2391
+P00055,Electronics,Laptops,GlowCare Laptops 13,69367.04,36321.12,154,4.4,1815
+P00056,Electronics,Laptops,Aarohi Laptops 14,42889.65,24745.48,977,3.7,2695
+P00057,Electronics,Laptops,NovaTech Laptops 15,45379.96,22075.38,643,4.4,1511
+P00058,Electronics,Laptops,FitPro Laptops 16,59040.75,28383,580,4,3204
+P00059,Electronics,Laptops,UrbanNest Laptops 17,63913.83,42717.15,297,3.6,807
+P00060,Electronics,Laptops,Aarohi Laptops 18,85554.24,66272.69,741,3.5,1719
+P00061,Electronics,Laptops,Vistara Laptops 19,21991.75,13385.74,990,4.1,3471
+P00062,Electronics,Laptops,HomeEase Laptops 20,51551.68,35576.51,494,4.6,2869
+P00063,Electronics,Laptops,ByteMax Laptops 21,72428.2,52006.12,207,4.2,1116
+P00064,Electronics,Laptops,Zenith Laptops 22,13483.99,7039.59,479,4.2,4229
+P00065,Electronics,Laptops,FitPro Laptops 23,56811.05,27961.61,436,3.6,3572
+P00066,Electronics,Laptops,NovaTech Laptops 24,58471.97,28548.27,688,4.9,3120
+P00067,Electronics,Laptops,UrbanNest Laptops 25,47724.26,33875.07,827,4.3,2261
+P00068,Electronics,Laptops,Zenith Laptops 26,43684.91,21913.47,469,4.2,3049
+P00069,Electronics,Laptops,NovaTech Laptops 27,44007.42,26609.55,952,3.9,1603
+P00070,Electronics,Laptops,NovaTech Laptops 28,60116.83,42091.8,507,3.5,4027
+P00071,Electronics,Laptops,Vistara Laptops 29,72782.18,50707.49,142,4.8,2854
+P00072,Electronics,Laptops,ByteMax Laptops 30,66491.24,47470.14,850,4.8,1890
+P00073,Electronics,Laptops,UrbanNest Laptops 31,86560.71,51491.27,768,4.1,3556
+P00074,Electronics,Laptops,Aarohi Laptops 32,6519.83,3463.82,346,4.5,1745
+P00075,Electronics,Laptops,GlowCare Laptops 33,16779.4,9158.73,763,4.4,2686
+P00076,Electronics,Laptops,Zenith Laptops 34,63213.48,44463.86,51,4.1,4028
+P00077,Electronics,Laptops,NovaTech Laptops 35,36765.87,20243.1,933,4.3,371
+P00078,Electronics,Laptops,GlowCare Laptops 36,47015.2,26535.79,442,4.2,3665
+P00079,Electronics,Laptops,Vistara Laptops 37,34462.04,25168.52,26,4.5,3933
+P00080,Electronics,Laptops,GlowCare Laptops 38,42743.98,30618.01,678,3.6,4874
+P00081,Electronics,Laptops,UrbanNest Laptops 39,70810.06,49532.98,365,3.7,1053
+P00082,Electronics,Laptops,Vistara Laptops 40,68566.96,51871.97,139,4.6,4335
+P00083,Electronics,Laptops,ByteMax Laptops 41,48136.06,33248.57,606,4.1,3512
+P00084,Electronics,Laptops,FitPro Laptops 42,26241.24,19072.59,955,4.7,2276
+P00085,Electronics,Audio,Aarohi Audio 01,64937.47,31524.73,371,4.3,1631
+P00086,Electronics,Audio,UrbanNest Audio 02,31287.63,16194.29,89,4.3,1852
+P00087,Electronics,Audio,DailyKart Audio 03,70650.85,46436.29,73,4,2129
+P00088,Electronics,Audio,UrbanNest Audio 04,12735.31,8494.47,86,4.1,2065
+P00089,Electronics,Audio,Zenith Audio 05,28448.33,21090.05,165,3.9,319
+P00090,Electronics,Audio,FitPro Audio 06,32544.23,24462.57,606,4.6,4106
+P00091,Electronics,Audio,FitPro Audio 07,63742.79,39610.24,851,4.4,2999
+P00092,Electronics,Audio,Vistara Audio 08,8514.14,6082.48,216,4.1,4182
+P00093,Electronics,Audio,Aarohi Audio 09,40392.79,23175.8,97,4.5,1104
+P00094,Electronics,Audio,DailyKart Audio 10,7676.53,5179.55,305,3.7,123
+P00095,Electronics,Audio,Vistara Audio 11,58781.09,34319.38,831,3.9,1701
+P00096,Electronics,Audio,Zenith Audio 12,86996.09,58048.2,105,3.5,2609
+P00097,Electronics,Audio,HomeEase Audio 13,8814.47,6469.17,41,4.8,3082
+P00098,Electronics,Audio,ByteMax Audio 14,4238.79,2309.1,75,4.3,3012
+P00099,Electronics,Audio,GlowCare Audio 15,71637.15,38121.04,229,4.4,4368
+P00100,Electronics,Audio,HomeEase Audio 16,47781.87,27049.81,96,4.5,53
+P00101,Electronics,Audio,FitPro Audio 17,18127.89,13598.6,645,4.4,1810
+P00102,Electronics,Audio,FitPro Audio 18,62327.95,35950.48,576,3.5,741
+P00103,Electronics,Audio,UrbanNest Audio 19,50678.2,33899.05,193,4.4,2032
+P00104,Electronics,Audio,HomeEase Audio 20,6660.86,3297,685,4,3419
+P00105,Electronics,Audio,Vistara Audio 21,28099.42,17259.03,747,3.9,957
+P00106,Electronics,Audio,DailyKart Audio 22,28068.23,16232.2,799,4,2371
+P00107,Electronics,Audio,GlowCare Audio 23,89872.81,45504.89,840,3.4,3126
+P00108,Electronics,Audio,NovaTech Audio 24,38267.34,27327.78,708,3.7,3806
+P00109,Electronics,Audio,ByteMax Audio 25,40586.37,20588,423,3.9,886
+P00110,Electronics,Audio,FitPro Audio 26,75312.72,52120.14,698,4.2,2641
+P00111,Electronics,Audio,HomeEase Audio 27,54571.72,35029.98,417,4.7,4580
+P00112,Electronics,Audio,ByteMax Audio 28,69103.2,34445.07,169,4.9,3340
+P00113,Electronics,Audio,Aarohi Audio 29,15592.8,9811.12,490,4,4689
+P00114,Electronics,Audio,HomeEase Audio 30,75639.58,42760.3,175,4.9,2018
+P00115,Electronics,Audio,DailyKart Audio 31,42460.96,20685.13,987,4.3,2001
+P00116,Electronics,Audio,UrbanNest Audio 32,67230.62,50673.47,568,3.8,454
+P00117,Electronics,Audio,FitPro Audio 33,68830.32,44798.3,43,4.2,1769
+P00118,Electronics,Audio,Vistara Audio 34,37689.4,26993.03,461,3.8,4789
+P00119,Electronics,Audio,Zenith Audio 35,53758.87,38426.62,527,3.7,4787
+P00120,Electronics,Audio,UrbanNest Audio 36,43504.2,29993.85,952,4.6,2277
+P00121,Electronics,Audio,ByteMax Audio 37,36123.44,21817.57,86,4.5,1739
+P00122,Electronics,Audio,ByteMax Audio 38,86997.39,45242.68,573,4,929
+P00123,Electronics,Audio,HomeEase Audio 39,85525.91,55176.98,43,4.8,2259
+P00124,Electronics,Audio,DailyKart  Audio  40,86360.92,64038.01,683,3.7,3576
+P00125,Electronics,Audio,Aarohi Audio 41,25373.47,17082.75,926,4.2,3970
+P00126,Electronics,Audio,NovaTech Audio 42,15737.51,10754.43,98,3.9,2098
+P00127,Electronics,Accessories,Vistara  Accessories  01,36065.29,19594.42,895,4.2,2020
+P00128,Electronics,Accessories,GlowCare Accessories 02,47077.68,32706.08,745,3.8,1814
+P00129,Electronics,Accessories,Zenith Accessories 03,77822.04,42268.36,868,4.2,2356
+P00130,Electronics,Accessories,FitPro Accessories 04,41567.73,23162.63,341,3.9,4607
+P00131,Electronics,Accessories,NovaTech Accessories 05,67574.55,37700.11,578,4,1235
+P00132,Electronics,Accessories,UrbanNest Accessories 06,52921.49,31641.64,301,3.9,4414
+P00133,Electronics,Accessories,ByteMax Accessories 07,24950.75,13035.64,145,4.9,4235
+P00134,Electronics,Accessories,ByteMax Accessories 08,32978.98,22416.85,390,4.1,4494
+P00135,Electronics,Accessories,FitPro Accessories 09,13848.28,10339.79,292,3.6,475
+P00136,Electronics,Accessories,DailyKart Accessories 10,8962.02,5952.87,443,4.2,4691
+P00137,Electronics,Accessories,NovaTech Accessories 11,29823.46,19190.54,837,3.4,590
+P00138,Electronics,Accessories,UrbanNest Accessories 12,74766.92,43256.56,699,4.7,592
+P00139,Electronics,Accessories,Vistara Accessories 13,64361.89,45261.06,875,4.4,1024
+P00140,Electronics,Accessories,NovaTech Accessories 14,77009.38,43212.35,399,4.1,1654
+P00141,Electronics,Accessories,HomeEase Accessories 15,21759.54,12934,600,3.8,189
+P00142,Electronics,Accessories,NovaTech Accessories 16,66088.95,48517.69,528,4.4,4770
+P00143,Electronics,Accessories,HomeEase Accessories 17,10354.53,7104.97,957,3.6,1367
+P00144,Electronics,Accessories,Aarohi Accessories 18,44836.34,26425.23,417,4.6,3123
+P00145,Electronics,Accessories,Vistara Accessories 19,27024.06,16536.59,908,4,1803
+P00146,Electronics,Accessories,Vistara Accessories 20,83945.06,55342.52,488,4,2212
+P00147,Electronics,Accessories,NovaTech Accessories 21,23335.26,15669.91,925,3.5,4132
+P00148,Electronics,Accessories,FitPro Accessories 22,26274.29,16061.52,367,4.8,1114
+P00149,Electronics,Accessories,DailyKart Accessories 23,83846.89,49017.75,773,4.8,4113
+P00150,Electronics,Accessories,GlowCare Accessories 24,53270.94,29383.2,253,4,808
+P00151,Electronics,Accessories,Vistara Accessories 25,52994.17,30044.23,553,3.4,2949
+P00152,Electronics,Accessories,HomeEase Accessories 26,23444.99,11633.47,443,4.1,3889
+P00153,Electronics,Accessories,UrbanNest  Accessories  27,54865.72,34838.89,379,4.5,4155
+P00154,Electronics,Accessories,Vistara Accessories 28,70439.91,42311.23,765,3.4,2918
+P00155,Electronics,Accessories,DailyKart Accessories 29,41001.57,30373.77,412,4.7,2672
+P00156,Electronics,Accessories,Zenith Accessories 30,13600.96,9879.27,851,4.1,4618
+P00157,Electronics,Accessories,Vistara Accessories 31,13632.6,7239.43,51,4.5,640
+P00158,Electronics,Accessories,Aarohi Accessories 32,54304.47,31014.62,887,4.4,942
+P00159,Electronics,Accessories,Zenith Accessories 33,78828.24,48066.78,737,4.9,791
+P00160,Electronics,Accessories,NovaTech Accessories 34,11587.81,5931.31,415,4.2,3222
+P00161,Electronics,Accessories,ByteMax Accessories 35,52206.25,28136.62,561,3.6,2028
+P00162,Electronics,Accessories,Aarohi Accessories 36,34640.63,21320.79,427,3.5,2587
+P00163,Electronics,Accessories,FitPro Accessories 37,868.73,418.22,469,4.3,3064
+P00164,Electronics,Accessories,ByteMax Accessories 38,15905.78,11895.73,468,4.1,4402
+P00165,Electronics,Accessories,DailyKart Accessories 39,74623.45,51447.95,446,4.3,1063
+P00166,Electronics,Accessories,Vistara Accessories 40,81794.71,53509.33,811,4.4,564
+P00167,Electronics,Accessories,ByteMax Accessories 41,45710.62,33154.78,688,3.5,969
+P00168,Electronics,Accessories,GlowCare Accessories 42,25293.26,12749.84,323,3.6,88
+P00169,Fashion,Men Clothing,Zenith Men Clothing 01,4138.11,2393.84,867,4.6,3424
+P00170,Fashion,Men Clothing,Aarohi Men Clothing 02,5452.05,3700.78,451,4.3,617
+P00171,Fashion,Men Clothing,Vistara Men Clothing 03,1336.49,1007.99,490,4.8,4930
+P00172,Fashion,Men Clothing,ByteMax Men Clothing 04,3403.49,1856.89,689,4.4,4888
+P00173,Fashion,Men Clothing,GlowCare Men Clothing 05,2197.48,1624.64,266,4.3,2667
+P00174,Fashion,Men Clothing,DailyKart Men Clothing 06,3809.38,2404.24,831,4.1,3812
+P00175,Fashion,Men Clothing,Aarohi Men Clothing 07,6907.33,4903.83,560,3.9,540
+P00176,Fashion,Men Clothing,NovaTech Men Clothing 08,1782.81,1362.71,224,3.9,3983
+P00177,Fashion,Men Clothing,HomeEase Men Clothing 09,6147.22,4157.34,958,4.2,1614
+P00178,Fashion,Men Clothing,Aarohi Men Clothing 10,3542.66,2234.82,491,3.4,2610
+P00179,Fashion,Men Clothing,ByteMax Men Clothing 11,1915.48,1286.14,731,3.9,3168
+P00180,Fashion,Men Clothing,FitPro Men Clothing 12,5859.18,3017.47,696,4.5,814
+P00181,Fashion,Men Clothing,Zenith Men Clothing 13,1111.48,537.3,262,3.7,1973
+P00182,Fashion,Men Clothing,FitPro Men Clothing 14,585.86,311.98,915,4.1,2515
+P00183,Fashion,Men Clothing,ByteMax Men Clothing 15,6990.84,3362.18,667,4.5,626
+P00184,Fashion,Men Clothing,NovaTech Men Clothing 16,1282.85,861.18,283,3.9,2195
+P00185,Fashion,Men Clothing,GlowCare Men Clothing 17,1848.83,1377.39,355,4.5,1921
+P00186,Fashion,Men Clothing,Aarohi Men Clothing 18,5216.67,3081.68,164,4.4,2595
+P00187,Fashion,Men Clothing,UrbanNest Men Clothing 19,5871.08,3329.44,925,3.9,2794
+P00188,Fashion,Men Clothing,UrbanNest Men Clothing 20,6308.74,4772.97,849,3.9,4735
+P00189,Fashion,Men Clothing,FitPro Men Clothing 21,4321.85,3158.37,195,4.1,1469
+P00190,Fashion,Men Clothing,GlowCare Men Clothing 22,878.99,515.35,926,3.6,1266
+P00191,Fashion,Men Clothing,Aarohi Men Clothing 23,5768.39,2909.3,157,3.9,2343
+P00192,Fashion,Men Clothing,UrbanNest Men Clothing 24,4831.55,2998.08,313,3.5,2210
+P00193,Fashion,Men Clothing,GlowCare Men Clothing 25,4578.69,3144.02,920,3.5,3584
+P00194,Fashion,Men Clothing,NovaTech Men Clothing 26,4798.52,2340.94,512,3.6,2444
+P00195,Fashion,Men Clothing,DailyKart Men Clothing 27,2771.9,1564.35,111,4.6,1595
+P00196,Fashion,Men Clothing,ByteMax Men Clothing 28,319.33,193.62,371,3.9,2143
+P00197,Fashion,Men Clothing,DailyKart Men Clothing 29,542.67,415.12,552,3.6,793
+P00198,Fashion,Men Clothing,UrbanNest Men Clothing 30,3902.08,2949.44,527,4.7,2414
+P00199,Fashion,Men Clothing,GlowCare Men Clothing 31,1871.03,997.93,380,3.6,4506
+P00200,Fashion,Men Clothing,GlowCare Men Clothing 32,994.82,514.88,109,3.4,1728
+P00201,Fashion,Men Clothing,GlowCare Men Clothing 33,3986.69,2536.59,192,4,1241
+P00202,Fashion,Men Clothing,GlowCare Men Clothing 34,6741.38,5230.23,814,4.5,3135
+P00203,Fashion,Men Clothing,Zenith Men Clothing 35,1338.29,812.49,244,4.7,2052
+P00204,Fashion,Men Clothing,UrbanNest Men Clothing 36,2105.83,1140.73,695,4.4,3182
+P00205,Fashion,Men Clothing,NovaTech Men Clothing 37,3302.44,1606.74,89,3.6,508
+P00206,Fashion,Men Clothing,FitPro Men Clothing 38,765.78,472.71,66,4.8,3667
+P00207,Fashion,Men Clothing,NovaTech Men Clothing 39,3106.28,2352.63,438,3.8,1210
+P00208,Fashion,Men Clothing,ByteMax Men Clothing 40,6953.21,4757.89,659,4,1369
+P00209,Fashion,Men Clothing,NovaTech Men Clothing 41,6804.89,5229.17,913,4.4,3611
+P00210,Fashion,Men Clothing,FitPro Men Clothing 42,2357.6,1320.91,598,3.5,1320
+P00211,Fashion,Women Clothing,Zenith Women Clothing 01,6145.47,4730.64,562,4.2,2632
+P00212,Fashion,Women Clothing,HomeEase Women Clothing 02,6417.78,4624.28,71,4.5,1313
+P00213,Fashion,Women Clothing,FitPro Women Clothing 03,5582,3642.97,864,4,3034
+P00214,Fashion,Women Clothing,NovaTech Women Clothing 04,5191.62,3384.39,869,4.3,4678
+P00215,Fashion,Women Clothing,Vistara Women Clothing 05,6365.26,3340.78,107,4.7,3927
+P00216,Fashion,Women Clothing,Zenith Women Clothing 06,3690.12,2563.58,270,4.1,826
+P00217,Fashion,Women Clothing,GlowCare Women Clothing 07,1748.52,1139.97,194,4.3,2112
+P00218,Fashion,Women Clothing,NovaTech Women Clothing 08,6832.05,3328.66,772,4.4,2429
+P00219,Fashion,Women Clothing,Vistara Women Clothing 09,3973.96,2364.24,220,4,2510
+P00220,Fashion,Women Clothing,DailyKart Women Clothing 10,2873.42,1944.38,110,3.5,582
+P00221,Fashion,Women Clothing,Zenith Women Clothing 11,3289.59,1670.13,986,4.1,4269
+P00222,Fashion,Women Clothing,Vistara Women Clothing 12,594.46,450.61,361,4.6,4597
+P00223,Fashion,Women Clothing,GlowCare Women Clothing 13,354.34,267.36,602,3.6,4470
+P00224,Fashion,Women Clothing,Zenith Women Clothing 14,6915.06,4762.41,736,4.8,3536
+P00225,Fashion,Women Clothing,NovaTech Women Clothing 15,1218.82,899.49,750,3.5,3409
+P00226,Fashion,Women Clothing,NovaTech Women Clothing 16,4270.69,2801.96,350,4.8,182
+P00227,Fashion,Women Clothing,GlowCare Women Clothing 17,1441.1,1094.98,474,4.7,196
+P00228,Fashion,Women Clothing,Aarohi Women Clothing 18,714.08,548.49,706,4.4,2153
+P00229,Fashion,Women Clothing,Zenith Women Clothing 19,750.04,406.87,479,4.4,1676
+P00230,Fashion,Women Clothing,NovaTech Women Clothing 20,6153.32,4614.8,284,4.1,4349
+P00231,Fashion,Women Clothing,Zenith Women Clothing 21,3507.24,1712.03,900,4.5,4545
+P00232,Fashion,Women Clothing,Zenith Women Clothing 22,3235.9,2404.17,156,4.6,2989
+P00233,Fashion,Women Clothing,HomeEase Women Clothing 23,495.46,317.06,225,4.4,3472
+P00234,Fashion,Women Clothing,ByteMax Women Clothing 24,665.81,511.9,649,4,4076
+P00235,Fashion,Women Clothing,Vistara Women Clothing 25,556.67,409.4,573,3.5,4640
+P00236,Fashion,Women Clothing,ByteMax Women Clothing 26,805.95,559.18,823,4.2,1562
+P00237,Fashion,Women Clothing,Aarohi Women Clothing 27,611.98,414.66,201,3.4,2285
+P00238,Fashion,Women Clothing,HomeEase Women Clothing 28,4836.98,2567.16,733,4.5,3807
+P00239,Fashion,Women Clothing,DailyKart Women Clothing 29,6115.65,4518.09,631,3.9,1409
+P00240,Fashion,Women Clothing,HomeEase Women Clothing 30,1816.92,1053.45,243,3.9,3842
+P00241,Fashion,Women Clothing,HomeEase Women Clothing 31,436.62,333,625,4,397
+P00242,Fashion,Women Clothing,Vistara Women Clothing 32,6448.46,3973.15,192,4.5,2502
+P00243,Fashion,Women Clothing,Vistara Women Clothing 33,6594.43,4403.68,819,4.3,58
+P00244,Fashion,Women Clothing,GlowCare Women Clothing 34,2278.35,1629.8,451,3.9,3422
+P00245,Fashion,Women Clothing,FitPro Women Clothing 35,6969.48,4631.8,33,4.7,4306
+P00246,Fashion,Women Clothing,Aarohi Women Clothing 36,5350.23,3205.96,54,3.5,563
+P00247,Fashion,Women Clothing,Zenith Women Clothing 37,3906.11,2956.01,338,3.6,1795
+P00248,Fashion,Women Clothing,UrbanNest Women Clothing 38,2539.08,1620.38,792,4.1,1670
+P00249,Fashion,Women Clothing,NovaTech Women Clothing 39,1838.19,1419.99,655,3.8,3856
+P00250,Fashion,Women Clothing,NovaTech Women Clothing 40,4035.92,2356.42,165,4.3,3369
+P00251,Fashion,Women Clothing,Zenith Women Clothing 41,6398.26,4483.62,891,4.5,3304
+P00252,Fashion,Women Clothing,GlowCare Women Clothing 42,2290.62,1416.88,546,3.9,779
+P00253,Fashion,Footwear,FitPro Footwear 01,3199.54,1674.59,895,3.8,4796
+P00254,Fashion,Footwear,HomeEase Footwear 02,5040.97,3431.94,93,4.4,4905
+P00255,Fashion,Footwear,UrbanNest Footwear 03,4827.07,2387.97,430,3.8,4139
+P00256,Fashion,Footwear,Aarohi Footwear 04,2644.7,1664.3,811,3.8,76
+P00257,Fashion,Footwear,FitPro Footwear 05,1972.2,1473.51,486,4.2,2038
+P00258,Fashion,Footwear,Vistara Footwear 06,4519.79,3140.48,99,4.6,3266
+P00259,Fashion,Footwear,UrbanNest Footwear 07,4827.63,2463.45,687,4.9,2593
+P00260,Fashion,Footwear,DailyKart Footwear 08,4161.84,3104.38,122,4.7,4870
+P00261,Fashion,Footwear,DailyKart  Footwear  09,6350.07,3795.33,70,4.2,2609
+P00262,Fashion,Footwear,Zenith Footwear 10,5373.88,4116.56,867,4.2,3956
+P00263,Fashion,Footwear,DailyKart Footwear 11,4844.78,2790.5,899,3.5,1705
+P00264,Fashion,Footwear,UrbanNest Footwear 12,4365.02,2368.06,668,3.7,2241
+P00265,Fashion,Footwear,ByteMax Footwear 13,6201.01,4751.01,566,3.9,1529
+P00266,Fashion,Footwear,FitPro Footwear 14,2463.27,1402.14,228,4.6,1893
+P00267,Fashion,Footwear,NovaTech Footwear 15,5475.1,2628.93,470,4.2,3919
+P00268,Fashion,Footwear,UrbanNest Footwear 16,2454.44,1692.81,593,3.5,1061
+P00269,Fashion,Footwear,DailyKart Footwear 17,5920.33,4532.82,789,3.8,4847
+P00270,Fashion,Footwear,Zenith Footwear 18,3290.24,2447.23,291,4.2,1709
+P00271,Fashion,Footwear,ByteMax Footwear 19,4418.72,2793.38,389,3.9,1656
+P00272,Fashion,Footwear,Vistara Footwear 20,4185.96,2858.43,340,4.2,4393
+P00273,Fashion,Footwear,FitPro Footwear 21,3741.3,2794.97,620,4.5,1591
+P00274,Fashion,Footwear,Zenith Footwear 22,2663.04,1781.02,144,4.8,4517
+P00275,Fashion,Footwear,ByteMax Footwear 23,1113.88,540.97,535,4,476
+P00276,Fashion,Footwear,FitPro Footwear 24,6907.43,3462.97,577,3.6,4983
+P00277,Fashion,Footwear,Zenith Footwear 25,2394.19,1550.98,170,4.3,1325
+P00278,Fashion,Footwear,HomeEase Footwear 26,6137.15,3523.02,493,4.7,3820
+P00279,Fashion,Footwear,UrbanNest Footwear 27,5669.34,3938.78,168,3.5,932
+P00280,Fashion,Footwear,HomeEase Footwear 28,4805.3,2965.28,470,3.7,2375
+P00281,Fashion,Footwear,NovaTech Footwear 29,5882.1,2939.66,68,3.8,896
+P00282,Fashion,Footwear,Vistara Footwear 30,3585.19,1890.5,587,4.1,3179
+P00283,Fashion,Footwear,FitPro Footwear 31,6167.28,4305.82,755,4.6,2870
+P00284,Fashion,Footwear,UrbanNest Footwear 32,3770.13,2598.75,580,4.8,2525
+P00285,Fashion,Footwear,GlowCare Footwear 33,4884.7,3290.25,480,3.5,1008
+P00286,Fashion,Footwear,DailyKart Footwear 34,1937.54,951.77,472,3.7,3033
+P00287,Fashion,Footwear,Vistara Footwear 35,1858.01,1149.96,695,4.5,3939
+P00288,Fashion,Footwear,DailyKart Footwear 36,6845.14,3377.18,335,4.2,4708
+P00289,Fashion,Footwear,Zenith Footwear 37,1439.28,1106.53,688,3.7,2529
+P00290,Fashion,Footwear,HomeEase Footwear 38,6546.67,4037.35,152,4.3,3697
+P00291,Fashion,Footwear,Vistara Footwear 39,4621.78,2986.61,858,4.4,1789
+P00292,Fashion,Footwear,GlowCare Footwear 40,4940.13,2442.59,229,4.6,50
+P00293,Fashion,Footwear,FitPro Footwear 41,1909.55,1353.82,634,4.5,3832
+P00294,Fashion,Footwear,Vistara Footwear 42,5382.99,3819.93,162,4,4204
+P00295,Fashion,Bags,UrbanNest Bags 01,4454.5,3043.59,33,4.1,2887
+P00296,Fashion,Bags,UrbanNest Bags 02,4024.55,3025.47,815,4.8,1964
+P00297,Fashion,Bags,ByteMax Bags 03,2586.84,1852.57,39,4.9,2038
+P00298,Fashion,Bags,UrbanNest Bags 04,5261.54,3815.14,851,4,4606
+P00299,Fashion,Bags,ByteMax Bags 05,3473.43,2308.47,672,4.6,3184
+P00300,Fashion,Bags,DailyKart Bags 06,5548.51,4169.08,715,4.4,1324
+P00301,Fashion,Bags,UrbanNest Bags 07,3725.27,2811.62,959,4.6,3847
+P00302,Fashion,Bags,DailyKart Bags 08,4143.46,2461.06,526,3.5,2857
+P00303,Fashion,Bags,FitPro Bags 09,3428.27,1997.57,286,3.8,237
+P00304,Fashion,Bags,ByteMax Bags 10,445,332.11,659,4.1,2160
+P00305,Fashion,Bags,NovaTech Bags 11,5241.09,2583.29,303,4.1,1977
+P00306,Fashion,Bags,Zenith Bags 12,2392.48,1756.28,113,3.9,807
+P00307,Fashion,Bags,NovaTech Bags 13,6646.54,3729.63,749,3.5,3006
+P00308,Fashion,Bags,Aarohi Bags 14,3281.29,1630.02,619,4.8,169
+P00309,Fashion,Bags,FitPro Bags 15,2394.52,1688.9,691,4,2362
+P00310,Fashion,Bags,FitPro Bags 16,6206.41,3566.45,137,4.7,1971
+P00311,Fashion,Bags,Zenith Bags 17,1380.47,681.15,198,4.6,2410
+P00312,Fashion,Bags,Vistara Bags 18,384.83,193.76,46,4.5,3134
+P00313,Fashion,Bags,ByteMax Bags 19,579.75,311.86,764,4.6,4619
+P00314,Fashion,Bags,Aarohi Bags 20,6006.82,3557.7,558,4.2,1107
+P00315,Fashion,Bags,GlowCare Bags 21,5438.8,4221.79,349,4.7,3072
+P00316,Fashion,Bags,DailyKart Bags 22,3756.86,2441.04,866,4.2,4959
+P00317,Fashion,Bags,GlowCare Bags 23,1878.96,1149.97,881,4.5,2538
+P00318,Fashion,Bags,HomeEase Bags 24,1313.8,680.22,621,4.5,1599
+P00319,Fashion,Bags,GlowCare Bags 25,3432.91,1959.38,663,3.8,1661
+P00320,Fashion,Bags,UrbanNest Bags 26,6066.58,3364.88,237,4.7,2229
+P00321,Fashion,Bags,Zenith Bags 27,5202.86,3522.2,673,3.5,1075
+P00322,Fashion,Bags,Zenith Bags 28,6272.09,4557.98,774,4.9,4616
+P00323,Fashion,Bags,FitPro Bags 29,3010.66,2048.32,265,4.2,2260
+P00324,Fashion,Bags,Zenith Bags 30,3730.98,2037.38,272,4.7,3804
+P00325,Fashion,Bags,HomeEase Bags 31,3514.31,2246.49,458,4.7,2940
+P00326,Fashion,Bags,Aarohi Bags 32,2728.72,1580.32,45,3.8,3306
+P00327,Fashion,Bags,NovaTech Bags 33,6056.95,3442.58,100,4.6,2810
+P00328,Fashion,Bags,GlowCare Bags 34,3416.32,2576.18,759,4.7,4768
+P00329,Fashion,Bags,HomeEase Bags 35,793.38,422.08,469,4.5,2470
+P00330,Fashion,Bags,GlowCare Bags 36,4718.4,3618.25,67,4.5,1603
+P00331,Fashion,Bags,Vistara Bags 37,5841.82,3270.3,372,3.4,2020
+P00332,Fashion,Bags,NovaTech Bags 38,2851.47,2020.69,403,3.6,3875
+P00333,Fashion,Bags,DailyKart Bags 39,1114.2,791.68,542,3.9,2616
+P00334,Fashion,Bags,GlowCare Bags 40,2254.79,1189.09,543,4.7,2186
+P00335,Fashion,Bags,NovaTech Bags 41,5989.28,2977.21,643,4.3,2339
+P00336,Fashion,Bags,GlowCare Bags 42,1268.64,615.55,336,3.6,4813
+P00337,Home & Kitchen,Kitchen,Aarohi Kitchen 01,4771.97,2954.48,970,3.8,1969
+P00338,Home & Kitchen,Kitchen,HomeEase Kitchen 02,11716.41,9109.07,926,4.4,381
+P00339,Home & Kitchen,Kitchen,NovaTech Kitchen 03,14666.98,8291.04,28,4.5,4114
+P00340,Home & Kitchen,Kitchen,UrbanNest Kitchen 04,15590.75,7944.23,579,4.9,4197
+P00341,Home & Kitchen,Kitchen,FitPro Kitchen 05,24203.12,14318.54,973,4.2,1934
+P00342,Home & Kitchen,Kitchen,HomeEase Kitchen 06,5678.17,4363.94,125,4.2,2150
+P00343,Home & Kitchen,Kitchen,HomeEase Kitchen 07,10033.43,6331.96,643,4.1,3734
+P00344,Home & Kitchen,Kitchen,GlowCare Kitchen 08,11323.36,5912.52,511,3.7,669
+P00345,Home & Kitchen,Kitchen,DailyKart Kitchen 09,5300.69,3691.86,836,3.8,1698
+P00346,Home & Kitchen,Kitchen,DailyKart Kitchen 10,11286.83,7207.48,686,4.3,961
+P00347,Home & Kitchen,Kitchen,ByteMax Kitchen 11,23742.01,14293.12,571,4,3545
+P00348,Home & Kitchen,Kitchen,Zenith Kitchen 12,1651.42,1050.82,755,4.6,4936
+P00349,Home & Kitchen,Kitchen,GlowCare Kitchen 13,16066.23,12243.92,750,4.8,4141
+P00350,Home & Kitchen,Kitchen,FitPro Kitchen 14,18633.5,12542.75,728,4.4,2120
+P00351,Home & Kitchen,Kitchen,UrbanNest Kitchen 15,24564.78,12430.2,899,4.2,2753
+P00352,Home & Kitchen,Kitchen,DailyKart Kitchen 16,6805.53,5276.95,207,4.9,3130
+P00353,Home & Kitchen,Kitchen,GlowCare Kitchen 17,20711.58,14866.6,732,4.6,216
+P00354,Home & Kitchen,Kitchen,DailyKart Kitchen 18,11774.37,6780.2,41,4.8,2528
+P00355,Home & Kitchen,Kitchen,Aarohi Kitchen 19,21345.57,15419.42,206,3.5,1149
+P00356,Home & Kitchen,Kitchen,UrbanNest Kitchen 20,1048.98,679.15,58,4.2,4086
+P00357,Home & Kitchen,Kitchen,GlowCare Kitchen 21,894.24,431.01,368,3.4,4882
+P00358,Home & Kitchen,Kitchen,FitPro Kitchen 22,6189.66,4002.88,548,4.1,1631
+P00359,Home & Kitchen,Kitchen,UrbanNest Kitchen 23,21932.29,16044.93,744,4.5,3763
+P00360,Home & Kitchen,Kitchen,GlowCare Kitchen 24,4353.87,3091.65,379,4.2,3315
+P00361,Home & Kitchen,Kitchen,Vistara Kitchen 25,3324.17,2414.42,303,3.4,116
+P00362,Home & Kitchen,Kitchen,Aarohi Kitchen 26,300.69,202.19,477,4,2278
+P00363,Home & Kitchen,Kitchen,NovaTech Kitchen 27,17996.4,11260.12,999,3.8,4389
+P00364,Home & Kitchen,Kitchen,Aarohi Kitchen 28,23504.21,17106.64,539,4.3,984
+P00365,Home & Kitchen,Kitchen,Zenith Kitchen 29,3129.96,1630.37,702,4.7,3173
+P00366,Home & Kitchen,Kitchen,Vistara Kitchen 30,9289.1,5013.58,374,4.2,2864
+P00367,Home & Kitchen,Kitchen,GlowCare Kitchen 31,919.17,518.5,235,3.4,1123
+P00368,Home & Kitchen,Kitchen,HomeEase Kitchen 32,18994.66,10719.46,384,4.9,2181
+P00369,Home & Kitchen,Kitchen,Vistara Kitchen 33,18548.97,11496.95,884,3.8,3064
+P00370,Home & Kitchen,Kitchen,DailyKart Kitchen 34,3393.31,2316.61,581,4,3194
+P00371,Home & Kitchen,Kitchen,Aarohi Kitchen 35,4679.91,3191.44,221,4.7,4427
+P00372,Home & Kitchen,Kitchen,UrbanNest Kitchen 36,24277.36,16936.23,276,4.9,2844
+P00373,Home & Kitchen,Kitchen,FitPro Kitchen 37,20917.17,16033.71,915,4,1440
+P00374,Home & Kitchen,Kitchen,ByteMax Kitchen 38,1574.34,1006.03,579,4.5,1899
+P00375,Home & Kitchen,Kitchen,DailyKart Kitchen 39,5840.57,4436.58,862,4.2,2361
+P00376,Home & Kitchen,Kitchen,Aarohi Kitchen 40,18700.16,13287.17,200,3.5,1481
+P00377,Home & Kitchen,Kitchen,NovaTech Kitchen 41,16342.04,8157.9,588,3.6,4045
+P00378,Home & Kitchen,Kitchen,Vistara Kitchen 42,7767.03,5802.41,914,3.5,3903
+P00379,Home & Kitchen,Furniture,UrbanNest Furniture 01,21912.67,15693.15,156,4.1,332
+P00380,Home & Kitchen,Furniture,ByteMax Furniture 02,11619.25,6921.81,852,3.7,2630
+P00381,Home & Kitchen,Furniture,NovaTech Furniture 03,4204.07,2641.81,405,3.6,169
+P00382,Home & Kitchen,Furniture,Zenith Furniture 04,16362.58,8773.83,472,3.8,4938
+P00383,Home & Kitchen,Furniture,ByteMax Furniture 05,21163.44,11170.41,206,4.5,3336
+P00384,Home & Kitchen,Furniture,Zenith Furniture 06,13117.9,6861.34,585,3.7,1796
+P00385,Home & Kitchen,Furniture,GlowCare Furniture 07,10006.81,7573.9,849,4.4,965
+P00386,Home & Kitchen,Furniture,UrbanNest Furniture 08,8072.54,5493.46,745,3.9,4419
+P00387,Home & Kitchen,Furniture,Zenith Furniture 09,16598.49,12032.44,628,4.6,980
+P00388,Home & Kitchen,Furniture,ByteMax Furniture 10,18107.22,9157.39,405,4.2,3991
+P00389,Home & Kitchen,Furniture,NovaTech Furniture 11,22407.72,14438.36,885,3.5,570
+P00390,Home & Kitchen,Furniture,Aarohi Furniture 12,17064.52,9911.94,823,3.9,716
+P00391,Home & Kitchen,Furniture,DailyKart Furniture 13,19252.63,14690.38,860,4.6,906
+P00392,Home & Kitchen,Furniture,HomeEase Furniture 14,12076.71,6962.48,696,4.8,918
+P00393,Home & Kitchen,Furniture,Aarohi Furniture 15,15403.96,11957.48,704,4.7,4618
+P00394,Home & Kitchen,Furniture,Aarohi Furniture 16,16650.36,9779.31,874,4.3,3264
+P00395,Home & Kitchen,Furniture,Vistara Furniture 17,8146.92,4295.39,623,4.3,1719
+P00396,Home & Kitchen,Furniture,Aarohi Furniture 18,17737.73,12384.17,568,4.1,2881
+P00397,Home & Kitchen,Furniture,Aarohi Furniture 19,3727.55,2329.56,36,4.2,1625
+P00398,Home & Kitchen,Furniture,Aarohi Furniture 20,22363.28,15886.72,783,4.1,1790
+P00399,Home & Kitchen,Furniture,Zenith Furniture 21,8578.49,6035.51,21,3.5,3811
+P00400,Home & Kitchen,Furniture,ByteMax Furniture 22,2650.5,1854.06,547,4.8,2275
+P00401,Home & Kitchen,Furniture,DailyKart Furniture 23,7694.85,5494.38,29,4,4476
+P00402,Home & Kitchen,Furniture,DailyKart Furniture 24,10942.84,6029.8,985,4.5,2442
+P00403,Home & Kitchen,Furniture,NovaTech Furniture 25,11593.48,6494.92,132,4,279
+P00404,Home & Kitchen,Furniture,DailyKart Furniture 26,9598.04,7408.87,367,4.3,2797
+P00405,Home & Kitchen,Furniture,HomeEase Furniture 27,7678.33,5149.99,284,4.1,2862
+P00406,Home & Kitchen,Furniture,NovaTech Furniture 28,16068.86,9817.94,160,3.6,3982
+P00407,Home & Kitchen,Furniture,FitPro Furniture 29,10714.42,5699.97,395,4.3,4976
+P00408,Home & Kitchen,Furniture,UrbanNest Furniture 30,4227.23,2871.97,945,4.5,1572
+P00409,Home & Kitchen,Furniture,Aarohi Furniture 31,10033.75,6399.4,668,3.6,1260
+P00410,Home & Kitchen,Furniture,ByteMax Furniture 32,5490.71,2836.8,497,4.6,2325
+P00411,Home & Kitchen,Furniture,FitPro Furniture 33,13268.67,8545.21,484,3.7,168
+P00412,Home & Kitchen,Furniture,UrbanNest Furniture 34,7262.25,5384.63,192,4.8,1622
+P00413,Home & Kitchen,Furniture,GlowCare Furniture 35,22430.47,14192.32,144,4.6,3144
+P00414,Home & Kitchen,Furniture,FitPro Furniture 36,4898.62,3384.64,598,3.5,1170
+P00415,Home & Kitchen,Furniture,FitPro Furniture 37,7024.74,3569.33,678,3.7,2828
+P00416,Home & Kitchen,Furniture,Vistara Furniture 38,14128.22,8663.03,551,4.3,119
+P00417,Home & Kitchen,Furniture,Zenith Furniture 39,8059.94,6268,72,4.9,1166
+P00418,Home & Kitchen,Furniture,HomeEase Furniture 40,19732.82,11555.84,437,4.8,3716
+P00419,Home & Kitchen,Furniture,FitPro Furniture 41,4226.37,3108,41,4.5,4701
+P00420,Home & Kitchen,Furniture,GlowCare Furniture 42,2125.94,1224.01,993,4,4258
+P00421,Home & Kitchen,Home Decor,GlowCare Home Decor 01,1856.37,1224.77,345,4.8,2930
+P00422,Home & Kitchen,Home Decor,ByteMax Home Decor 02,10635.85,6046.8,103,4.2,1850
+P00423,Home & Kitchen,Home Decor,Aarohi Home Decor 03,3946.66,3039.19,638,4.5,2711
+P00424,Home & Kitchen,Home Decor,GlowCare Home Decor 04,20596.25,10217.01,832,3.7,4305
+P00425,Home & Kitchen,Home Decor,ByteMax Home Decor 05,9125.05,6123.72,436,3.8,4385
+P00426,Home & Kitchen,Home Decor,NovaTech Home Decor 06,8506.66,6368.34,874,3.9,4787
+P00427,Home & Kitchen,Home Decor,NovaTech Home Decor 07,10138.95,5609.37,807,4.7,3479
+P00428,Home & Kitchen,Home Decor,FitPro Home Decor 08,22926.53,13770.25,189,4.6,1650
+P00429,Home & Kitchen,Home Decor,Vistara Home Decor 09,896.94,691.38,130,4.7,1259
+P00430,Home & Kitchen,Home Decor,UrbanNest Home Decor 10,6892.16,4552.93,913,4.6,4449
+P00431,Home & Kitchen,Home Decor,HomeEase Home Decor 11,24942.18,13728.03,554,3.6,2833
+P00432,Home & Kitchen,Home Decor,UrbanNest Home Decor 12,5989.8,4671.58,964,3.6,2396
+P00433,Home & Kitchen,Home Decor,DailyKart Home Decor 13,10522,5934.72,448,3.8,4292
+P00434,Home & Kitchen,Home Decor,FitPro Home Decor 14,4407.72,2446.06,336,3.9,1193
+P00435,Home & Kitchen,Home Decor,Zenith Home Decor 15,16665.82,9587.96,911,4.5,668
+P00436,Home & Kitchen,Home Decor,UrbanNest Home Decor 16,1644.25,860.51,412,4.7,499
+P00437,Home & Kitchen,Home Decor,NovaTech Home Decor 17,9012.83,5776.14,878,4.5,4259
+P00438,Home & Kitchen,Home Decor,UrbanNest Home Decor 18,23615.48,13674.06,918,4.7,2895
+P00439,Home & Kitchen,Home Decor,NovaTech Home Decor 19,14450.79,9904.29,565,3.9,3029
+P00440,Home & Kitchen,Home Decor,ByteMax Home Decor 20,19008.9,11904.84,131,3.6,4772
+P00441,Home & Kitchen,Home Decor,Aarohi Home Decor 21,17306.11,11001.55,539,3.7,3930
+P00442,Home & Kitchen,Home Decor,FitPro Home Decor 22,3851.15,2179.74,819,4.8,338
+P00443,Home & Kitchen,Home Decor,Zenith Home Decor 23,4992.46,3062.01,74,4.4,2682
+P00444,Home & Kitchen,Home Decor,Zenith Home Decor 24,22075.53,12398.4,184,3.9,2758
+P00445,Home & Kitchen,Home Decor,ByteMax Home Decor 25,24527.41,18895.21,649,4.3,1306
+P00446,Home & Kitchen,Home Decor,NovaTech Home Decor 26,2898.75,2113.42,696,3.6,4986
+P00447,Home & Kitchen,Home Decor,NovaTech Home Decor 27,2054.47,1257.19,665,4.2,1518
+P00448,Home & Kitchen,Home Decor,NovaTech Home Decor 28,1881.7,1206.55,336,4.2,3391
+P00449,Home & Kitchen,Home Decor,GlowCare Home Decor 29,9112.44,6786.35,372,3.9,987
+P00450,Home & Kitchen,Home Decor,ByteMax Home Decor 30,3310.27,1913.42,242,4.4,3740
+P00451,Home & Kitchen,Home Decor,FitPro Home Decor 31,9302.18,5935.14,72,4.3,2484
+P00452,Home & Kitchen,Home Decor,Vistara Home Decor 32,5678.13,4070.19,169,4.4,591
+P00453,Home & Kitchen,Home Decor,ByteMax Home Decor 33,12952.81,9251.53,806,3.6,2782
+P00454,Home & Kitchen,Home Decor,UrbanNest Home Decor 34,17081.95,11858.36,227,4.8,2204
+P00455,Home & Kitchen,Home Decor,UrbanNest Home Decor 35,3294.21,2432.2,369,4.8,4561
+P00456,Home & Kitchen,Home Decor,NovaTech Home Decor 36,4857.35,3209.48,530,3.6,4199
+P00457,Home & Kitchen,Home Decor,Zenith Home Decor 37,24951.23,15620.72,530,4.4,1625
+P00458,Home & Kitchen,Home Decor,NovaTech Home Decor 38,22082.26,16153.24,481,4,513
+P00459,Home & Kitchen,Home Decor,Aarohi Home Decor 39,22961.36,14931.94,961,3.6,2901
+P00460,Home & Kitchen,Home Decor,Zenith Home Decor 40,21699.87,10913.94,910,3.6,1182
+P00461,Home & Kitchen,Home Decor,UrbanNest Home Decor 41,18578.83,14126.94,250,4.2,2716
+P00462,Home & Kitchen,Home Decor,Aarohi Home Decor 42,7045.8,3392.37,259,4.6,411
+P00463,Home & Kitchen,Appliances,NovaTech Appliances 01,16426.31,11735.89,286,4.4,3480
+P00464,Home & Kitchen,Appliances,ByteMax Appliances 02,22853.85,16183.31,436,4.5,221
+P00465,Home & Kitchen,Appliances,Aarohi Appliances 03,11380.46,7949.11,557,3.9,3775
+P00466,Home & Kitchen,Appliances,HomeEase Appliances 04,22471.73,15760.61,424,4.5,2109
+P00467,Home & Kitchen,Appliances,Zenith Appliances 05,17264.29,8887,727,4.4,316
+P00468,Home & Kitchen,Appliances,ByteMax Appliances 06,16635.45,10872.78,969,4.5,4430
+P00469,Home & Kitchen,Appliances,HomeEase Appliances 07,10719.84,6449.2,577,3.9,3254
+P00470,Home & Kitchen,Appliances,UrbanNest Appliances 08,4119.74,3177.85,634,4.8,4649
+P00471,Home & Kitchen,Appliances,NovaTech Appliances 09,18854.04,14247.67,424,4.3,1149
+P00472,Home & Kitchen,Appliances,GlowCare Appliances 10,19250.51,14909.49,390,4.7,431
+P00473,Home & Kitchen,Appliances,HomeEase Appliances 11,7160.01,4483.85,402,4.2,2592
+P00474,Home & Kitchen,Appliances,Aarohi Appliances 12,24200.78,17041.51,424,4.6,4371
+P00475,Home & Kitchen,Appliances,Vistara Appliances 13,8166.94,5134.53,706,4.4,521
+P00476,Home & Kitchen,Appliances,Aarohi Appliances 14,6229.37,3221.81,953,3.8,3956
+P00477,Home & Kitchen,Appliances,DailyKart Appliances 15,6170.3,4468.09,770,3.5,4215
+P00478,Home & Kitchen,Appliances,DailyKart Appliances 16,19044.31,12174.62,247,4.2,3483
+P00479,Home & Kitchen,Appliances,Aarohi Appliances 17,19665.06,10142.45,374,4.3,520
+P00480,Home & Kitchen,Appliances,NovaTech Appliances 18,22527.01,14532.97,631,4.4,2644
+P00481,Home & Kitchen,Appliances,ByteMax Appliances 19,22783.26,17126.79,718,3.7,2502
+P00482,Home & Kitchen,Appliances,HomeEase Appliances 20,8926.99,4870.71,808,4.1,3738
+P00483,Home & Kitchen,Appliances,HomeEase Appliances 21,2486.22,1494.81,671,4.3,3938
+P00484,Home & Kitchen,Appliances,NovaTech Appliances 22,22251.87,11464.69,136,3.5,2938
+P00485,Home & Kitchen,Appliances,ByteMax Appliances 23,16925.52,9086.68,281,3.7,2247
+P00486,Home & Kitchen,Appliances,FitPro Appliances 24,8991.84,4616.17,951,4.1,4963
+P00487,Home & Kitchen,Appliances,GlowCare Appliances 25,20497.73,15364.56,900,3.5,4733
+P00488,Home & Kitchen,Appliances,ByteMax Appliances 26,7408.15,3859.85,430,3.9,2510
+P00489,Home & Kitchen,Appliances,DailyKart Appliances 27,10963.8,5739.76,428,3.8,4359
+P00490,Home & Kitchen,Appliances,Vistara Appliances 28,6269.21,4122.63,62,4.6,534
+P00491,Home & Kitchen,Appliances,Zenith Appliances 29,13400.58,9004.73,315,3.8,1195
+P00492,Home & Kitchen,Appliances,Vistara Appliances 30,4193.6,2857.03,535,3.7,2463
+P00493,Home & Kitchen,Appliances,GlowCare Appliances 31,22033.52,14948.79,92,4.8,807
+P00494,Home & Kitchen,Appliances,Aarohi Appliances 32,4977.87,3603.25,569,3.4,280
+P00495,Home & Kitchen,Appliances,HomeEase Appliances 33,23783.55,16705.72,276,4.2,2538
+P00496,Home & Kitchen,Appliances,DailyKart Appliances 34,18070.21,11433.6,855,3.8,390
+P00497,Home & Kitchen,Appliances,Aarohi Appliances 35,16837.88,10249.69,699,4.8,2369
+P00498,Home & Kitchen,Appliances,UrbanNest Appliances 36,3991.86,3023.56,322,4,1710
+P00499,Home & Kitchen,Appliances,UrbanNest Appliances 37,4816.54,3624.58,784,4.9,4239
+P00500,Home & Kitchen,Appliances,UrbanNest Appliances 38,1598.17,903.02,661,3.7,850
+P00501,Home & Kitchen,Appliances,Vistara Appliances 39,12157.53,7895.42,730,4.6,459
+P00502,Home & Kitchen,Appliances,NovaTech Appliances 40,21357.58,12117.03,66,3.4,1442
+P00503,Home & Kitchen,Appliances,FitPro  Appliances  41,5416.18,3134.62,841,3.6,4177
+P00504,Home & Kitchen,Appliances,GlowCare Appliances 42,2990.11,2118.11,908,4.8,3711
+P00505,Beauty,Skincare,Zenith Skincare 01,1574.99,1104.38,41,4.3,1803
+P00506,Beauty,Skincare,GlowCare Skincare 02,2150.98,1422.05,358,4,4892
+P00507,Beauty,Skincare,UrbanNest Skincare 03,1448.89,854.34,821,4.7,2295
+P00508,Beauty,Skincare,DailyKart Skincare 04,655.42,450.37,687,3.4,2012
+P00509,Beauty,Skincare,GlowCare Skincare 05,5195.34,3977.15,337,4,3174
+P00510,Beauty,Skincare,DailyKart Skincare 06,1037.4,713.9,42,4.5,2127
+P00511,Beauty,Skincare,Aarohi Skincare 07,1370.86,807.78,105,4.7,1187
+P00512,Beauty,Skincare,ByteMax Skincare 08,2368.42,1494.41,278,3.8,3366
+P00513,Beauty,Skincare,HomeEase Skincare 09,4869.55,3631.05,152,3.5,1519
+P00514,Beauty,Skincare,Zenith Skincare 10,1847.6,1355.5,336,4,3642
+P00515,Beauty,Skincare,Zenith Skincare 11,175.77,110.13,409,4.3,715
+P00516,Beauty,Skincare,GlowCare Skincare 12,3774.62,2427.11,868,4.6,3205
+P00517,Beauty,Skincare,FitPro Skincare 13,1642.71,982.56,935,4.5,207
+P00518,Beauty,Skincare,UrbanNest Skincare 14,4962.3,3065.58,376,3.8,1360
+P00519,Beauty,Skincare,NovaTech Skincare 15,5127.93,3209.03,131,3.4,1029
+P00520,Beauty,Skincare,FitPro Skincare 16,3599.8,2796.67,566,3.8,3865
+P00521,Beauty,Skincare,GlowCare Skincare 17,1482.88,971.86,583,4.5,3660
+P00522,Beauty,Skincare,Zenith Skincare 18,3364.57,2578.41,512,4.7,3377
+P00523,Beauty,Skincare,UrbanNest Skincare 19,1747.36,902.99,598,3.6,339
+P00524,Beauty,Skincare,GlowCare Skincare 20,3335.15,2285.6,896,4.1,1662
+P00525,Beauty,Skincare,NovaTech Skincare 21,3180.07,1856.5,131,4.9,302
+P00526,Beauty,Skincare,Vistara Skincare 22,5343.82,3629.57,709,4.2,2028
+P00527,Beauty,Skincare,Zenith Skincare 23,3083.39,1539.77,663,3.7,3722
+P00528,Beauty,Skincare,Aarohi Skincare 24,3051.71,1809.14,93,4,263
+P00529,Beauty,Skincare,FitPro Skincare 25,5470.59,4249.39,737,3.6,2554
+P00530,Beauty,Skincare,HomeEase Skincare 26,5126.13,3773.47,999,4.4,3908
+P00531,Beauty,Skincare,FitPro Skincare 27,2344.87,1802.87,292,4.6,4831
+P00532,Beauty,Skincare,UrbanNest Skincare 28,4074.42,3154.58,942,4.3,1855
+P00533,Beauty,Skincare,DailyKart Skincare 29,2710.64,1696.29,438,3.9,1303
+P00534,Beauty,Skincare,Vistara Skincare 30,2913.93,1687.02,446,3.6,2578
+P00535,Beauty,Skincare,HomeEase Skincare 31,462.06,356.45,904,4.6,1943
+P00536,Beauty,Skincare,UrbanNest Skincare 32,2873.98,2228.36,162,4.4,4239
+P00537,Beauty,Skincare,ByteMax Skincare 33,235.53,140.54,835,3.4,2715
+P00538,Beauty,Skincare,Vistara Skincare 34,5140.78,3222.64,103,4.7,1533
+P00539,Beauty,Skincare,GlowCare Skincare 35,1027.66,722.06,507,4.9,3001
+P00540,Beauty,Skincare,DailyKart Skincare 36,365.14,238.55,642,3.4,62
+P00541,Beauty,Skincare,ByteMax Skincare 37,3978.43,2102.01,955,4.4,4716
+P00542,Beauty,Skincare,DailyKart Skincare 38,2356.27,1708.35,494,3.5,3730
+P00543,Beauty,Skincare,GlowCare Skincare 39,5334.8,2974.71,448,3.7,2565
+P00544,Beauty,Skincare,NovaTech Skincare 40,1106.65,853.14,63,3.4,2984
+P00545,Beauty,Skincare,Vistara Skincare 41,2886.33,2004.71,865,4.8,4262
+P00546,Beauty,Skincare,UrbanNest Skincare 42,3676.37,1806.31,663,4.3,4319
+P00547,Beauty,Makeup,DailyKart Makeup 01,476.69,347.56,842,3.5,2399
+P00548,Beauty,Makeup,UrbanNest Makeup 02,461.12,354.48,176,4.9,2713
+P00549,Beauty,Makeup,FitPro Makeup 03,5297.98,2959.26,885,4,3314
+P00550,Beauty,Makeup,GlowCare Makeup 04,170.28,91.47,602,4.2,4226
+P00551,Beauty,Makeup,Vistara Makeup 05,1246.95,674.34,942,3.9,960
+P00552,Beauty,Makeup,Vistara Makeup 06,3502.49,2475.13,832,3.5,3230
+P00553,Beauty,Makeup,NovaTech Makeup 07,880.68,593.81,337,3.7,1469
+P00554,Beauty,Makeup,NovaTech Makeup 08,1880.66,1373.21,475,4.6,1314
+P00555,Beauty,Makeup,GlowCare Makeup 09,5709.55,4018.27,547,3.8,2459
+P00556,Beauty,Makeup,Aarohi Makeup 10,5536.76,3824.87,299,4.6,1431
+P00557,Beauty,Makeup,ByteMax Makeup 11,4891.11,2725.09,729,3.6,571
+P00558,Beauty,Makeup,Aarohi Makeup 12,2174.07,1252.92,417,4.2,3319
+P00559,Beauty,Makeup,HomeEase Makeup 13,2780.46,1444.85,166,4.4,3469
+P00560,Beauty,Makeup,HomeEase Makeup 14,629.31,472.83,597,3.5,605
+P00561,Beauty,Makeup,HomeEase Makeup 15,4698.24,2849.32,136,4.1,1249
+P00562,Beauty,Makeup,GlowCare Makeup 16,2933.52,1647.75,299,3.8,3364
+P00563,Beauty,Makeup,Zenith Makeup 17,388.21,252.22,666,4.2,679
+P00564,Beauty,Makeup,Aarohi Makeup 18,1153.74,720.55,886,4.6,3182
+P00565,Beauty,Makeup,ByteMax Makeup 19,3976.75,2181.6,485,4.4,3083
+P00566,Beauty,Makeup,NovaTech Makeup 20,3386.03,2411.33,974,4.2,2985
+P00567,Beauty,Makeup,DailyKart Makeup 21,2394.71,1655.72,411,4.3,3996
+P00568,Beauty,Makeup,HomeEase Makeup 22,4608.5,2767.98,730,3.7,2163
+P00569,Beauty,Makeup,UrbanNest Makeup 23,3807.29,1958.24,564,4.3,2235
+P00570,Beauty,Makeup,Aarohi Makeup 24,3222.62,2337.16,970,4.9,4365
+P00571,Beauty,Makeup,DailyKart Makeup 25,490.92,270.54,749,3.8,256
+P00572,Beauty,Makeup,HomeEase Makeup 26,1613.29,1055.87,910,3.6,4415
+P00573,Beauty,Makeup,Aarohi Makeup 27,4740.53,3467.96,819,4.1,1190
+P00574,Beauty,Makeup,GlowCare Makeup 28,5492.13,3041.41,528,3.7,4741
+P00575,Beauty,Makeup,ByteMax Makeup 29,1450.88,809.16,990,4.4,4347
+P00576,Beauty,Makeup,Zenith Makeup 30,174.34,94.58,51,4.1,827
+P00577,Beauty,Makeup,Aarohi Makeup 31,396.59,221.13,392,4.5,2434
+P00578,Beauty,Makeup,Vistara Makeup 32,3625.82,2132.36,417,4.5,62
+P00579,Beauty,Makeup,GlowCare Makeup 33,199.01,133.14,288,4.1,4291
+P00580,Beauty,Makeup,Aarohi Makeup 34,4539.18,3260.74,963,4.7,3568
+P00581,Beauty,Makeup,UrbanNest Makeup 35,997.31,692.87,154,4.4,857
+P00582,Beauty,Makeup,DailyKart Makeup 36,1278.74,871.55,679,4.3,1050
+P00583,Beauty,Makeup,Zenith Makeup 37,1453.28,978.77,252,4,2106
+P00584,Beauty,Makeup,GlowCare  Makeup  38,1910.23,1113.76,584,4.8,3814
+P00585,Beauty,Makeup,GlowCare Makeup 39,4411.58,2760.55,638,4.5,4400
+P00586,Beauty,Makeup,FitPro Makeup 40,1533.22,1145.27,746,4.4,3861
+P00587,Beauty,Makeup,Vistara Makeup 41,3732.93,2893.5,686,3.9,4131
+P00588,Beauty,Makeup,Aarohi Makeup 42,3382.72,2078.48,465,4,1858
+P00589,Beauty,Haircare,Aarohi Haircare 01,1638.19,1227.91,35,4.4,904
+P00590,Beauty,Haircare,Vistara Haircare 02,3527.41,2651.59,281,4.3,2909
+P00591,Beauty,Haircare,GlowCare Haircare 03,4268.44,3010.03,224,3.7,1573
+P00592,Beauty,Haircare,DailyKart Haircare 04,5481.23,4252.17,321,3.6,646
+P00593,Beauty,Haircare,HomeEase Haircare 05,5583.82,3694.34,780,3.4,511
+P00594,Beauty,Haircare,HomeEase Haircare 06,1388.99,829,662,4.7,3859
+P00595,Beauty,Haircare,Aarohi Haircare 07,3314.53,2519.54,147,4.1,529
+P00596,Beauty,Haircare,Aarohi Haircare 08,3560.91,2184.93,192,4.4,1664
+P00597,Beauty,Haircare,HomeEase Haircare 09,1635.11,859.63,941,3.4,2969
+P00598,Beauty,Haircare,NovaTech Haircare 10,1592.74,951.57,796,4.2,3392
+P00599,Beauty,Haircare,Vistara Haircare 11,4080.86,2646.21,63,4.8,4946
+P00600,Beauty,Haircare,FitPro Haircare 12,4002.8,2942.23,505,3.9,3972
+P00601,Beauty,Haircare,FitPro Haircare 13,296.54,198.75,25,3.4,2823
+P00602,Beauty,Haircare,Vistara  Haircare  14,5094.83,3418.26,839,4.1,617
+P00603,Beauty,Haircare,HomeEase Haircare 15,1392.64,782.98,60,3.9,2044
+P00604,Beauty,Haircare,Vistara Haircare 16,5934.99,3308.27,773,3.5,1918
+P00605,Beauty,Haircare,ByteMax Haircare 17,1643.4,905.65,576,3.6,1423
+P00606,Beauty,Haircare,FitPro Haircare 18,4741.74,2335.62,303,3.5,3922
+P00607,Beauty,Haircare,DailyKart Haircare 19,5240.43,3521.78,578,4.4,1194
+P00608,Beauty,Haircare,Zenith Haircare 20,3519.23,1747.21,751,4.2,2611
+P00609,Beauty,Haircare,ByteMax Haircare 21,4315.2,2201.57,476,4.8,554
+P00610,Beauty,Haircare,HomeEase Haircare 22,1055.28,545.23,722,4.2,3428
+P00611,Beauty,Haircare,GlowCare Haircare 23,2054.21,1254.38,724,3.6,3418
+P00612,Beauty,Haircare,HomeEase Haircare 24,4122.04,1987.68,988,4.9,3757
+P00613,Beauty,Haircare,FitPro Haircare 25,3326.74,1916.21,850,3.8,840
+P00614,Beauty,Haircare,NovaTech Haircare 26,1081.08,594.76,141,3.9,1532
+P00615,Beauty,Haircare,HomeEase Haircare 27,3261.57,1981.44,389,4.7,4151
+P00616,Beauty,Haircare,UrbanNest Haircare 28,4237.25,2994.47,165,3.8,1000
+P00617,Beauty,Haircare,ByteMax Haircare 29,872.12,484.58,363,4.1,4076
+P00618,Beauty,Haircare,UrbanNest Haircare 30,2444.33,1660.51,631,4.5,1100
+P00619,Beauty,Haircare,Aarohi Haircare 31,3403.81,2013.27,875,4.4,4904
+P00620,Beauty,Haircare,ByteMax Haircare 32,2164.37,1271.78,876,4.7,2660
+P00621,Beauty,Haircare,HomeEase Haircare 33,1332.87,933.36,387,3.4,239
+P00622,Beauty,Haircare,GlowCare Haircare 34,1622.67,915.4,199,3.7,4232
+P00623,Beauty,Haircare,Vistara Haircare 35,2178.45,1679.48,894,3.8,4027
+P00624,Beauty,Haircare,HomeEase Haircare 36,1502.65,914.64,452,4.6,2846
+P00625,Beauty,Haircare,Aarohi Haircare 37,5211.1,2507.13,843,3.7,4263
+P00626,Beauty,Haircare,FitPro Haircare 38,1226.96,624.04,437,3.9,2708
+P00627,Beauty,Haircare,HomeEase Haircare 39,810.87,556.92,933,4.3,2303
+P00628,Beauty,Haircare,HomeEase Haircare 40,1662.92,928.24,264,4.7,2155
+P00629,Beauty,Haircare,HomeEase Haircare 41,2499.43,1386.45,787,4.2,4855
+P00630,Beauty,Haircare,Zenith Haircare 42,5793.62,3016.34,679,4.4,4759
+P00631,Beauty,Fragrance,HomeEase Fragrance 01,2640.01,1395.82,578,3.8,1520
+P00632,Beauty,Fragrance,HomeEase Fragrance 02,5717.82,2820.7,885,4.5,1196
+P00633,Beauty,Fragrance,FitPro Fragrance 03,5125,3662.32,129,3.8,3518
+P00634,Beauty,Fragrance,UrbanNest Fragrance 04,4317.68,3209.91,202,4.1,1033
+P00635,Beauty,Fragrance,FitPro Fragrance 05,5540.34,2673.28,184,4.7,1699
+P00636,Beauty,Fragrance,UrbanNest Fragrance 06,5724.97,3649.17,59,4.5,348
+P00637,Beauty,Fragrance,GlowCare Fragrance 07,2566.8,1891.64,111,3.5,1726
+P00638,Beauty,Fragrance,NovaTech Fragrance 08,4193.5,2273.94,733,4.2,3183
+P00639,Beauty,Fragrance,Aarohi Fragrance 09,3633.41,2011.37,849,3.4,1298
+P00640,Beauty,Fragrance,FitPro Fragrance 10,442.78,265.57,289,4.4,4699
+P00641,Beauty,Fragrance,Zenith Fragrance 11,1001.49,775.83,81,4.3,3887
+P00642,Beauty,Fragrance,NovaTech Fragrance 12,505.56,340.25,316,4.8,860
+P00643,Beauty,Fragrance,HomeEase Fragrance 13,701.63,494.98,357,3.5,645
+P00644,Beauty,Fragrance,Zenith Fragrance 14,3343.78,2413.99,863,4.8,1606
+P00645,Beauty,Fragrance,Zenith Fragrance 15,2869.14,1397.13,444,3.7,4630
+P00646,Beauty,Fragrance,Zenith Fragrance 16,1346.52,994.8,759,4.5,432
+P00647,Beauty,Fragrance,FitPro Fragrance 17,2011.66,1322.38,201,4.9,632
+P00648,Beauty,Fragrance,UrbanNest Fragrance 18,2725.4,1890.97,289,4,2121
+P00649,Beauty,Fragrance,ByteMax Fragrance 19,531.73,256.53,969,4.8,2054
+P00650,Beauty,Fragrance,GlowCare Fragrance 20,4548.74,2794.21,256,4.4,320
+P00651,Beauty,Fragrance,ByteMax Fragrance 21,5681.99,4288.85,234,4.1,3028
+P00652,Beauty,Fragrance,Zenith Fragrance 22,2651.75,1707.15,402,4.3,3253
+P00653,Beauty,Fragrance,Zenith Fragrance 23,4753.03,3524.88,936,3.9,1759
+P00654,Beauty,Fragrance,HomeEase Fragrance 24,5219.53,2618.74,661,4.4,345
+P00655,Beauty,Fragrance,Zenith Fragrance 25,3454.49,2044.62,845,3.6,4833
+P00656,Beauty,Fragrance,FitPro Fragrance 26,1928.29,1109.79,975,4.2,3646
+P00657,Beauty,Fragrance,Aarohi Fragrance 27,1276.95,977.65,466,4.3,604
+P00658,Beauty,Fragrance,ByteMax Fragrance 28,2202.1,1108.93,873,4.4,2084
+P00659,Beauty,Fragrance,UrbanNest Fragrance 29,2589.16,1334.97,880,3.8,2986
+P00660,Beauty,Fragrance,Zenith Fragrance 30,5580.27,3849.61,139,4.1,4930
+P00661,Beauty,Fragrance,Zenith Fragrance 31,4201.19,2229.98,924,4.6,3876
+P00662,Beauty,Fragrance,FitPro Fragrance 32,2077.97,1120.93,319,3.8,849
+P00663,Beauty,Fragrance,ByteMax Fragrance 33,4492.87,2226.39,325,3.5,3175
+P00664,Beauty,Fragrance,DailyKart Fragrance 34,1744.25,1237.58,536,3.8,2268
+P00665,Beauty,Fragrance,GlowCare Fragrance 35,3228.83,1818.27,576,3.6,859
+P00666,Beauty,Fragrance,HomeEase Fragrance 36,760.14,467.55,757,4.3,4045
+P00667,Beauty,Fragrance,NovaTech Fragrance 37,1210.4,859.57,711,3.5,3232
+P00668,Beauty,Fragrance,Vistara Fragrance 38,4771.77,3056.33,464,3.9,359
+P00669,Beauty,Fragrance,Vistara Fragrance 39,5450.89,3065.15,35,3.7,2103
+P00670,Beauty,Fragrance,UrbanNest Fragrance 40,1441.38,1081.85,298,3.4,4708
+P00671,Beauty,Fragrance,Zenith Fragrance 41,1352.11,775.4,28,4.7,3668
+P00672,Beauty,Fragrance,ByteMax Fragrance 42,4235.76,2967.12,518,4.2,4043
+P00673,Grocery,Snacks,NovaTech Snacks 01,218.99,170.33,296,3.4,4395
+P00674,Grocery,Snacks,Zenith Snacks 02,1935.96,1451.05,645,4,3794
+P00675,Grocery,Snacks,ByteMax Snacks 03,503.81,385.18,926,3.5,550
+P00676,Grocery,Snacks,DailyKart Snacks 04,2162.8,1680.89,214,3.7,3707
+P00677,Grocery,Snacks,HomeEase Snacks 05,1722.15,1321.27,983,4.5,974
+P00678,Grocery,Snacks,FitPro  Snacks  06,2328.72,1697.95,881,3.5,135
+P00679,Grocery,Snacks,ByteMax Snacks 07,2330.56,1667.76,260,3.4,4192
+P00680,Grocery,Snacks,Aarohi Snacks 08,164.08,81.75,47,4.8,206
+P00681,Grocery,Snacks,DailyKart Snacks 09,1763.08,997.47,286,4,4036
+P00682,Grocery,Snacks,Aarohi Snacks 10,2382.12,1149.11,494,4.1,3243
+P00683,Grocery,Snacks,Zenith Snacks 11,2011.13,1054.15,265,3.8,128
+P00684,Grocery,Snacks,ByteMax Snacks 12,1055.91,621.92,956,4.1,764
+P00685,Grocery,Snacks,Zenith Snacks 13,2047.42,1045.99,615,3.8,2767
+P00686,Grocery,Snacks,Aarohi Snacks 14,1771.09,1323.87,192,3.6,772
+P00687,Grocery,Snacks,Vistara Snacks 15,1523.16,1027.27,93,4.6,1713
+P00688,Grocery,Snacks,UrbanNest Snacks 16,1064.57,816.25,572,4.9,3925
+P00689,Grocery,Snacks,GlowCare Snacks 17,1053.78,682.2,803,3.4,2864
+P00690,Grocery,Snacks,Aarohi Snacks 18,1519.51,1011.04,187,4.2,2515
+P00691,Grocery,Snacks,Zenith Snacks 19,1238.13,660.47,282,4.6,2953
+P00692,Grocery,Snacks,DailyKart Snacks 20,2180.1,1599.52,237,4.6,741
+P00693,Grocery,Snacks,FitPro Snacks 21,1997.1,1013.45,126,4.8,1761
+P00694,Grocery,Snacks,NovaTech Snacks 22,1458.28,864.23,589,4.8,449
+P00695,Grocery,Snacks,FitPro Snacks 23,1103.01,619.81,571,3.9,4515
+P00696,Grocery,Snacks,GlowCare Snacks 24,2275.05,1227.75,281,4.7,1118
+P00697,Grocery,Snacks,Vistara Snacks 25,1629.7,1113.02,580,4.1,4598
+P00698,Grocery,Snacks,UrbanNest Snacks 26,1756.2,1352.78,565,3.7,3137
+P00699,Grocery,Snacks,UrbanNest Snacks 27,89.23,46.54,430,4.6,3607
+P00700,Grocery,Snacks,HomeEase Snacks 28,2491.37,1911.97,584,4.9,774
+P00701,Grocery,Snacks,UrbanNest Snacks 29,1451.74,1075.4,567,4.4,3182
+P00702,Grocery,Snacks,Vistara Snacks 30,116.74,72.61,23,3.9,4791
+P00703,Grocery,Snacks,DailyKart Snacks 31,1176.43,762.14,834,3.5,1423
+P00704,Grocery,Snacks,ByteMax Snacks 32,1963.28,1260.75,488,4.8,2854
+P00705,Grocery,Snacks,FitPro Snacks 33,2238.93,1187.84,704,3.7,2414
+P00706,Grocery,Snacks,FitPro Snacks 34,529.34,266.61,949,4.8,2148
+P00707,Grocery,Snacks,UrbanNest Snacks 35,1161.82,702.02,608,3.5,3239
+P00708,Grocery,Snacks,Vistara Snacks 36,127.82,65.57,907,4.6,2406
+P00709,Grocery,Snacks,UrbanNest Snacks 37,2204.09,1670.41,653,4.6,2944
+P00710,Grocery,Snacks,Aarohi Snacks 38,1913.07,1415.59,682,4,3319
+P00711,Grocery,Snacks,DailyKart Snacks 39,2225,1460.3,961,4.8,3266
+P00712,Grocery,Snacks,UrbanNest Snacks 40,119.94,61.18,552,4.8,1186
+P00713,Grocery,Snacks,DailyKart Snacks 41,74.04,36.21,830,4.5,4292
+P00714,Grocery,Snacks,DailyKart Snacks 42,475.34,338.35,689,4.1,1846
+P00715,Grocery,Beverages,UrbanNest Beverages 01,2229.31,1085.45,906,4.1,4654
+P00716,Grocery,Beverages,Zenith Beverages 02,1063.44,732.52,275,3.7,717
+P00717,Grocery,Beverages,Aarohi Beverages 03,2234.78,1584.73,779,3.6,4797
+P00718,Grocery,Beverages,Zenith Beverages 04,896.17,502.75,995,4.7,1578
+P00719,Grocery,Beverages,FitPro Beverages 05,994.2,589.44,551,3.7,4636
+P00720,Grocery,Beverages,Aarohi Beverages 06,1672.43,859.85,636,4.5,597
+P00721,Grocery,Beverages,DailyKart Beverages 07,1012.71,664.31,265,4.5,2608
+P00722,Grocery,Beverages,NovaTech Beverages 08,1975.51,1535.34,271,4.9,306
+P00723,Grocery,Beverages,HomeEase Beverages 09,665.63,375.89,715,4.1,4056
+P00724,Grocery,Beverages,Zenith Beverages 10,2169.97,1394.6,21,3.7,2037
+P00725,Grocery,Beverages,Zenith Beverages 11,395.66,261.4,907,4.2,1725
+P00726,Grocery,Beverages,HomeEase Beverages 12,2187.53,1057.23,98,4.6,1007
+P00727,Grocery,Beverages,ByteMax Beverages 13,2044.71,1452.95,384,3.7,4789
+P00728,Grocery,Beverages,Aarohi Beverages 14,1924.94,997.65,204,4.7,418
+P00729,Grocery,Beverages,Vistara Beverages 15,613.82,348.49,360,4,2721
+P00730,Grocery,Beverages,ByteMax Beverages 16,102.51,50.02,375,4.7,4286
+P00731,Grocery,Beverages,DailyKart Beverages 17,2458.98,1660.66,240,4,1808
+P00732,Grocery,Beverages,DailyKart Beverages 18,2027.12,1028.86,738,3.7,4196
+P00733,Grocery,Beverages,HomeEase Beverages 19,1299.75,943.99,441,4.8,1783
+P00734,Grocery,Beverages,NovaTech Beverages 20,573.08,408.12,199,4,2152
+P00735,Grocery,Beverages,ByteMax Beverages 21,1816.86,1402.42,212,4.3,2775
+P00736,Grocery,Beverages,DailyKart Beverages 22,234.84,161.58,47,4.7,2516
+P00737,Grocery,Beverages,ByteMax Beverages 23,1823.45,1066.23,29,4.3,2262
+P00738,Grocery,Beverages,UrbanNest Beverages 24,1809.74,1164.84,77,4.1,855
+P00739,Grocery,Beverages,DailyKart Beverages 25,2142.3,1232.05,616,4.6,4703
+P00740,Grocery,Beverages,GlowCare Beverages 26,1920.29,1324.2,867,4.6,3601
+P00741,Grocery,Beverages,DailyKart Beverages 27,1631.89,905.27,182,4,3949
+P00742,Grocery,Beverages,UrbanNest Beverages 28,1271.86,821.33,657,4.2,4328
+P00743,Grocery,Beverages,UrbanNest Beverages 29,1555.4,1089.61,516,4.2,2783
+P00744,Grocery,Beverages,HomeEase Beverages 30,1689.5,1017.8,352,3.4,1831
+P00745,Grocery,Beverages,GlowCare Beverages 31,1022.88,772.14,736,4.2,3159
+P00746,Grocery,Beverages,Vistara Beverages 32,1921.2,1458.45,116,3.7,1242
+P00747,Grocery,Beverages,Aarohi Beverages 33,555.8,296.97,126,4.1,4873
+P00748,Grocery,Beverages,NovaTech Beverages 34,1573.31,850.31,114,3.9,58
+P00749,Grocery,Beverages,GlowCare Beverages 35,1900.59,1264.91,970,3.6,547
+P00750,Grocery,Beverages,ByteMax Beverages 36,2394.17,1842.57,879,3.5,3156
+P00751,Grocery,Beverages,Aarohi Beverages 37,385.11,228.6,97,3.5,2540
+P00752,Grocery,Beverages,FitPro Beverages 38,745.98,423.13,193,4,692
+P00753,Grocery,Beverages,NovaTech Beverages 39,386.02,229.34,518,3.6,1852
+P00754,Grocery,Beverages,NovaTech Beverages 40,1438.65,895.71,578,3.6,3195
+P00755,Grocery,Beverages,HomeEase Beverages 41,907.49,479.29,476,4.4,457
+P00756,Grocery,Beverages,Vistara Beverages 42,2355.29,1606.24,472,3.5,1956
+P00757,Grocery,Staples,UrbanNest Staples 01,1560.18,759.54,92,4.4,3722
+P00758,Grocery,Staples,NovaTech Staples 02,2042.04,1086.85,567,4.6,481
+P00759,Grocery,Staples,GlowCare Staples 03,2114.52,1050.21,204,4.4,1138
+P00760,Grocery,Staples,Zenith Staples 04,1662.16,902.03,690,3.7,3045
+P00761,Grocery,Staples,FitPro Staples 05,2350.61,1257.76,140,3.6,1889
+P00762,Grocery,Staples,Aarohi Staples 06,309.75,190.65,940,3.7,182
+P00763,Grocery,Staples,ByteMax Staples 07,56.46,38.24,614,3.9,822
+P00764,Grocery,Staples,UrbanNest Staples 08,2254.02,1558.96,747,4.8,4582
+P00765,Grocery,Staples,UrbanNest Staples 09,1934.17,1351.36,94,3.7,341
+P00766,Grocery,Staples,HomeEase Staples 10,1346.1,811.44,930,4.6,2130
+P00767,Grocery,Staples,GlowCare Staples 11,1320.74,910.55,202,4.4,1265
+P00768,Grocery,Staples,FitPro Staples 12,908.41,474.01,29,4.4,657
+P00769,Grocery,Staples,DailyKart Staples 13,799.72,605.27,974,3.4,3441
+P00770,Grocery,Staples,FitPro Staples 14,2252.23,1553.19,309,4.8,50
+P00771,Grocery,Staples,Zenith Staples 15,2210.22,1385.32,369,4.7,3554
+P00772,Grocery,Staples,ByteMax Staples 16,1598.47,946.94,578,4.7,1433
+P00773,Grocery,Staples,Aarohi Staples 17,959.07,503.57,488,4.5,2152
+P00774,Grocery,Staples,UrbanNest Staples 18,1099.91,542.97,326,3.6,2672
+P00775,Grocery,Staples,Vistara Staples 19,350.08,220.07,323,4.8,4730
+P00776,Grocery,Staples,Aarohi Staples 20,1784.68,1358.24,428,3.5,515
+P00777,Grocery,Staples,Vistara Staples 21,305.83,154.69,187,3.9,2153
+P00778,Grocery,Staples,Vistara Staples 22,1447.14,1110.23,731,4.8,1851
+P00779,Grocery,Staples,DailyKart Staples 23,1163.75,735.95,664,3.6,481
+P00780,Grocery,Staples,UrbanNest Staples 24,1559.98,1092.92,92,3.8,1275
+P00781,Grocery,Staples,NovaTech Staples 25,236.38,173.35,515,4.8,668
+P00782,Grocery,Staples,DailyKart Staples 26,650.32,341.78,198,4.1,1311
+P00783,Grocery,Staples,HomeEase Staples 27,284.7,166.36,645,3.5,4744
+P00784,Grocery,Staples,Vistara Staples 28,1270.6,959.53,333,4.5,2981
+P00785,Grocery,Staples,NovaTech Staples 29,781.09,575.85,324,3.7,3735
+P00786,Grocery,Staples,Vistara Staples 30,2471.18,1581.56,577,4.2,3267
+P00787,Grocery,Staples,UrbanNest Staples 31,1956.03,1334.8,782,3.5,2069
+P00788,Grocery,Staples,UrbanNest Staples 32,883.16,673.44,107,3.7,946
+P00789,Grocery,Staples,Aarohi Staples 33,585.27,400.4,992,4.5,3552
+P00790,Grocery,Staples,UrbanNest Staples 34,810.32,483.81,991,3.8,3229
+P00791,Grocery,Staples,Vistara Staples 35,2393.99,1404.26,577,4.3,2117
+P00792,Grocery,Staples,Aarohi Staples 36,581.7,317.34,436,4.8,2142
+P00793,Grocery,Staples,NovaTech Staples 37,1335.1,692.84,668,4.5,3112
+P00794,Grocery,Staples,Vistara Staples 38,439.28,281.69,823,4.3,1293
+P00795,Grocery,Staples,DailyKart Staples 39,438.86,267.9,49,4.5,3951
+P00796,Grocery,Staples,DailyKart Staples 40,150.54,74.35,429,4.3,3090
+P00797,Grocery,Staples,FitPro Staples 41,1970.75,1088.6,357,4.9,919
+P00798,Grocery,Staples,NovaTech Staples 42,2063.54,1588.06,121,4.1,4542
+P00799,Grocery,Personal Care,GlowCare Personal Care 01,1223.06,909.62,192,3.4,3206
+P00800,Grocery,Personal Care,Aarohi Personal Care 02,2167.33,1282.49,713,4.5,3781
+P00801,Grocery,Personal Care,Zenith Personal Care 03,610.77,410.03,661,4.4,3586
+P00802,Grocery,Personal Care,UrbanNest Personal Care 04,1103.41,557.21,802,4.1,623
+P00803,Grocery,Personal Care,Vistara Personal Care 05,1622.62,1170.98,765,4.1,3454
+P00804,Grocery,Personal Care,Vistara Personal Care 06,462.6,233.68,643,4.2,1181
+P00805,Grocery,Personal Care,UrbanNest Personal Care 07,1568.51,1012.11,482,3.7,842
+P00806,Grocery,Personal Care,HomeEase Personal Care 08,561.41,344.58,816,4,2461
+P00807,Grocery,Personal Care,FitPro Personal Care 09,2326.1,1413.64,339,3.6,515
+P00808,Grocery,Personal Care,HomeEase Personal Care 10,533.58,298.48,763,4.8,4592
+P00809,Grocery,Personal Care,NovaTech Personal Care 11,1949.08,1004.53,923,3.4,2529
+P00810,Grocery,Personal Care,ByteMax Personal Care 12,1500.13,1028.07,535,4.2,4827
+P00811,Grocery,Personal Care,GlowCare Personal Care 13,2212.9,1339.94,623,3.6,3470
+P00812,Grocery,Personal Care,GlowCare Personal Care 14,371.79,243.24,251,4.5,1422
+P00813,Grocery,Personal Care,NovaTech Personal Care 15,776.81,489.3,850,4.6,2141
+P00814,Grocery,Personal Care,GlowCare Personal Care 16,496,322.96,916,3.6,167
+P00815,Grocery,Personal Care,Vistara Personal Care 17,2036.77,1084.66,385,3.7,2353
+P00816,Grocery,Personal Care,DailyKart Personal Care 18,2220.2,1135.44,20,4.5,4298
+P00817,Grocery,Personal Care,FitPro Personal Care 19,1086.21,754.05,875,4,1668
+P00818,Grocery,Personal Care,GlowCare Personal Care 20,1437.42,797.54,97,4.6,1112
+P00819,Grocery,Personal Care,Vistara Personal Care 21,1424.69,920.93,720,3.6,2840
+P00820,Grocery,Personal Care,Aarohi Personal Care 22,439.79,214.06,81,4.2,3420
+P00821,Grocery,Personal Care,Zenith Personal Care 23,441.83,235.28,586,3.5,4046
+P00822,Grocery,Personal Care,NovaTech Personal Care 24,895.1,497.01,309,3.5,4189
+P00823,Grocery,Personal Care,FitPro Personal Care 25,1053.19,772.07,191,4.7,1604
+P00824,Grocery,Personal Care,Aarohi Personal Care 26,1389.54,782.07,335,4.4,3108
+P00825,Grocery,Personal Care,DailyKart Personal Care 27,372.04,255.71,655,3.8,3933
+P00826,Grocery,Personal Care,Vistara Personal Care 28,1697.64,1309.45,35,4.2,4919
+P00827,Grocery,Personal Care,Vistara Personal Care 29,741.84,465.82,842,3.4,2568
+P00828,Grocery,Personal Care,GlowCare Personal Care 30,763.45,455.51,891,4.4,91
+P00829,Grocery,Personal Care,FitPro Personal Care 31,2410.22,1160.23,892,3.9,1152
+P00830,Grocery,Personal Care,DailyKart Personal Care 32,1645.66,940.39,174,3.6,68
+P00831,Grocery,Personal Care,GlowCare Personal Care 33,656.63,456.63,391,4,4460
+P00832,Grocery,Personal Care,DailyKart Personal Care 34,1122.6,548.31,812,4.4,423
+P00833,Grocery,Personal Care,NovaTech Personal Care 35,672.24,513.36,713,3.4,1849
+P00834,Grocery,Personal Care,Vistara Personal Care 36,2426.82,1672.25,327,3.7,947
+P00835,Grocery,Personal Care,ByteMax Personal Care 37,1527.76,811.18,323,4,3817
+P00836,Grocery,Personal Care,GlowCare Personal Care 38,1029.47,608.13,927,4.7,4286
+P00837,Grocery,Personal Care,UrbanNest Personal Care 39,1685.64,869.09,131,3.6,3295
+P00838,Grocery,Personal Care,FitPro Personal Care 40,2387.7,1774.42,144,4.6,961
+P00839,Grocery,Personal Care,UrbanNest Personal Care 41,1554.8,748.47,150,3.7,2465
+P00840,Grocery,Personal Care,DailyKart Personal Care 42,998.39,614.96,288,3.7,2626
+P00841,Sports,Fitness,NovaTech Fitness 01,9423.03,6849.66,171,4.1,4093
+P00842,Sports,Fitness,NovaTech Fitness 02,1359.32,862.21,214,4.6,4799
+P00843,Sports,Fitness,Aarohi Fitness 03,3542.56,2480.24,606,4.4,4970
+P00844,Sports,Fitness,Vistara Fitness 04,729.57,494.37,895,4.2,177
+P00845,Sports,Fitness,DailyKart Fitness 05,8712.07,5521.92,436,3.5,764
+P00846,Sports,Fitness,Vistara Fitness 06,5989.53,2999.39,301,4.6,2245
+P00847,Sports,Fitness,NovaTech Fitness 07,11534.18,7865.23,734,4.4,2522
+P00848,Sports,Fitness,GlowCare Fitness 08,5991.1,4203.99,30,4.4,3278
+P00849,Sports,Fitness,ByteMax Fitness 09,2413.13,1549.61,801,4.6,3948
+P00850,Sports,Fitness,HomeEase Fitness 10,1806.61,950.36,782,4.3,1214
+P00851,Sports,Fitness,Aarohi Fitness 11,1373.41,965.3,651,3.7,4314
+P00852,Sports,Fitness,DailyKart Fitness 12,2715.44,1415.72,709,3.6,2318
+P00853,Sports,Fitness,Vistara Fitness 13,6383.76,3266.99,994,4.2,4385
+P00854,Sports,Fitness,Aarohi Fitness 14,13848.95,6795.99,209,4.7,843
+P00855,Sports,Fitness,UrbanNest Fitness 15,2118.87,1634.52,131,3.9,3838
+P00856,Sports,Fitness,HomeEase Fitness 16,1094.36,755.49,618,3.4,3353
+P00857,Sports,Fitness,Vistara Fitness 17,14236.81,9046.57,411,3.8,2064
+P00858,Sports,Fitness,ByteMax Fitness 18,11714.45,7922.92,636,3.6,3662
+P00859,Sports,Fitness,Aarohi Fitness 19,13388.74,9534.47,418,4.7,3546
+P00860,Sports,Fitness,FitPro Fitness 20,3591.15,2069.45,99,4.3,71
+P00861,Sports,Fitness,FitPro Fitness 21,4837.55,3605.48,367,4.1,2229
+P00862,Sports,Fitness,HomeEase Fitness 22,6577.38,4971.53,342,3.7,2133
+P00863,Sports,Fitness,Zenith Fitness 23,11251.11,5556.04,186,4.7,2899
+P00864,Sports,Fitness,NovaTech Fitness 24,6149.89,3648.16,486,4.8,782
+P00865,Sports,Fitness,Vistara Fitness 25,9310.99,6221.75,823,4.8,1959
+P00866,Sports,Fitness,Aarohi Fitness 26,3071.19,2367.44,376,3.7,469
+P00867,Sports,Fitness,Aarohi Fitness 27,12671.1,6254.91,131,4.9,2218
+P00868,Sports,Fitness,DailyKart Fitness 28,7398.92,5393.94,455,4.2,4666
+P00869,Sports,Fitness,UrbanNest Fitness 29,8522.15,4391.62,869,3.5,3168
+P00870,Sports,Fitness,Zenith Fitness 30,14242.45,9902.9,718,3.6,2505
+P00871,Sports,Fitness,Vistara Fitness 31,9450.89,4739.89,439,3.6,1958
+P00872,Sports,Fitness,Zenith Fitness 32,14597.11,9414.35,777,4.8,628
+P00873,Sports,Fitness,HomeEase Fitness 33,889.77,683.57,497,3.9,1765
+P00874,Sports,Fitness,HomeEase Fitness 34,13914.34,10308.8,928,4.3,4946
+P00875,Sports,Fitness,NovaTech Fitness 35,1911.61,1193.59,442,4,2428
+P00876,Sports,Fitness,UrbanNest Fitness 36,2825.67,1476.24,500,4.4,2255
+P00877,Sports,Fitness,Zenith Fitness 37,11273.22,5424.61,206,4.2,1939
+P00878,Sports,Fitness,UrbanNest Fitness 38,4648.19,3133.78,773,4.2,666
+P00879,Sports,Fitness,UrbanNest Fitness 39,14836.52,11085.79,276,4.6,4739
+P00880,Sports,Fitness,UrbanNest Fitness 40,9883.07,6948.42,833,3.7,2858
+P00881,Sports,Fitness,Vistara Fitness 41,12525.7,7316.42,345,4.4,600
+P00882,Sports,Fitness,FitPro Fitness 42,1638.43,1226.24,537,4.6,404
+P00883,Sports,Outdoor,Zenith Outdoor 01,2804.03,1515.08,346,3.9,3054
+P00884,Sports,Outdoor,ByteMax Outdoor 02,14026.13,8879.41,395,3.6,2665
+P00885,Sports,Outdoor,UrbanNest Outdoor 03,14154.69,9674.33,114,4.3,4808
+P00886,Sports,Outdoor,UrbanNest Outdoor 04,6752.04,3873.61,87,3.8,1089
+P00887,Sports,Outdoor,DailyKart Outdoor 05,9943.77,5789.52,430,4.5,3763
+P00888,Sports,Outdoor,Aarohi Outdoor 06,12601.2,6170.07,917,3.5,501
+P00889,Sports,Outdoor,Zenith Outdoor 07,14849.77,11541.95,54,4.8,515
+P00890,Sports,Outdoor,ByteMax Outdoor 08,10401.35,7860.09,951,4.6,2497
+P00891,Sports,Outdoor,FitPro Outdoor 09,11729.34,6595.88,681,4.8,4483
+P00892,Sports,Outdoor,DailyKart Outdoor 10,13514.32,6814.42,133,4.8,908
+P00893,Sports,Outdoor,DailyKart Outdoor 11,2316.87,1799.04,527,4.3,2503
+P00894,Sports,Outdoor,Zenith Outdoor 12,10580.28,7649.61,148,4.2,2271
+P00895,Sports,Outdoor,Aarohi Outdoor 13,13447.07,9475.44,886,4.7,2191
+P00896,Sports,Outdoor,UrbanNest Outdoor 14,14316.9,10898.07,949,3.7,4090
+P00897,Sports,Outdoor,FitPro Outdoor 15,13229.61,6899.81,120,4.2,711
+P00898,Sports,Outdoor,ByteMax Outdoor 16,3370.36,2580.57,695,3.5,1321
+P00899,Sports,Outdoor,GlowCare Outdoor 17,5552.9,2804.39,427,4.7,4982
+P00900,Sports,Outdoor,ByteMax Outdoor 18,693.85,421.68,238,4.7,1877
+P00901,Sports,Outdoor,HomeEase Outdoor 19,1485.1,999.78,542,3.8,2431
+P00902,Sports,Outdoor,Vistara Outdoor 20,5395.46,2675.76,23,3.7,2218
+P00903,Sports,Outdoor,Vistara Outdoor 21,8432.76,5696.39,680,4.5,2515
+P00904,Sports,Outdoor,NovaTech Outdoor 22,14516.42,10486,642,3.4,1654
+P00905,Sports,Outdoor,Vistara Outdoor 23,4172.1,3076.94,401,3.7,1674
+P00906,Sports,Outdoor,DailyKart Outdoor 24,2792.49,1981.22,463,3.9,4417
+P00907,Sports,Outdoor,GlowCare Outdoor 25,8615.06,5877,693,4.2,3740
+P00908,Sports,Outdoor,Vistara Outdoor 26,10417.5,7890.13,83,4.8,4206
+P00909,Sports,Outdoor,UrbanNest Outdoor 27,4648.77,3428.09,875,4.6,3932
+P00910,Sports,Outdoor,GlowCare Outdoor 28,10290.17,6501.39,930,3.7,456
+P00911,Sports,Outdoor,FitPro Outdoor 29,1891,1171.88,247,3.5,3305
+P00912,Sports,Outdoor,UrbanNest Outdoor 30,1985.45,1162.5,126,4.5,4414
+P00913,Sports,Outdoor,DailyKart Outdoor 31,11118.64,6565.93,228,4.8,1270
+P00914,Sports,Outdoor,FitPro Outdoor 32,9602.64,5468.34,397,4.7,1383
+P00915,Sports,Outdoor,UrbanNest Outdoor 33,574.36,324.52,652,4.5,3558
+P00916,Sports,Outdoor,FitPro Outdoor 34,14604.86,7648.72,373,4.3,4220
+P00917,Sports,Outdoor,NovaTech Outdoor 35,10785.89,7366.58,613,4.3,1552
+P00918,Sports,Outdoor,FitPro Outdoor 36,9459.21,6066.26,700,4.1,2817
+P00919,Sports,Outdoor,Vistara Outdoor 37,9760.21,6484.01,609,4.2,1825
+P00920,Sports,Outdoor,GlowCare Outdoor 38,1407.25,733.38,830,3.9,4915
+P00921,Sports,Outdoor,UrbanNest Outdoor 39,6951.47,3884.4,701,4.6,3074
+P00922,Sports,Outdoor,Vistara Outdoor 40,7028.25,4143.86,680,4.4,1252
+P00923,Sports,Outdoor,UrbanNest Outdoor 41,10148.17,5776.55,410,3.8,1978
+P00924,Sports,Outdoor,GlowCare Outdoor 42,10575.43,5349.63,191,3.4,2106
+P00925,Sports,Sportswear,UrbanNest Sportswear 01,10555.76,5872.4,788,4.3,1548
+P00926,Sports,Sportswear,Aarohi Sportswear 02,10750.7,6980.97,327,4.8,4478
+P00927,Sports,Sportswear,HomeEase Sportswear 03,13425.39,7836.43,603,3.6,2515
+P00928,Sports,Sportswear,FitPro Sportswear 04,10640.94,7269.11,38,4.7,501
+P00929,Sports,Sportswear,Aarohi Sportswear 05,10201.58,6942.55,98,3.6,3503
+P00930,Sports,Sportswear,Aarohi Sportswear 06,10663.92,5208.62,376,4,3398
+P00931,Sports,Sportswear,DailyKart Sportswear 07,6735.94,4545.97,111,3.5,1685
+P00932,Sports,Sportswear,HomeEase Sportswear 08,12177.62,6887.32,49,4.1,1683
+P00933,Sports,Sportswear,HomeEase Sportswear 09,3146.06,1971.31,995,3.4,4291
+P00934,Sports,Sportswear,FitPro Sportswear 10,12154.25,8221.5,285,4.6,1117
+P00935,Sports,Sportswear,NovaTech Sportswear 11,1549.35,1154.82,448,3.5,2671
+P00936,Sports,Sportswear,NovaTech Sportswear 12,2784.93,2096.84,155,4.6,3178
+P00937,Sports,Sportswear,GlowCare Sportswear 13,12215.28,6267.51,283,4,2020
+P00938,Sports,Sportswear,UrbanNest Sportswear 14,2342.13,1514.99,497,3.9,4911
+P00939,Sports,Sportswear,UrbanNest Sportswear 15,3075.32,1723.66,731,4.9,3609
+P00940,Sports,Sportswear,UrbanNest Sportswear 16,13696.88,7161.62,491,4.1,4191
+P00941,Sports,Sportswear,Aarohi Sportswear 17,1865.75,1342.2,388,3.9,3809
+P00942,Sports,Sportswear,ByteMax Sportswear 18,8385.74,4362.24,153,4.7,3491
+P00943,Sports,Sportswear,UrbanNest Sportswear 19,4361.67,2105.76,167,3.8,4220
+P00944,Sports,Sportswear,ByteMax Sportswear 20,14237.92,10867.9,309,4.5,689
+P00945,Sports,Sportswear,Vistara Sportswear 21,13184.32,8742.97,213,4.8,1948
+P00946,Sports,Sportswear,FitPro Sportswear 22,3927.21,2133.26,38,4.4,4015
+P00947,Sports,Sportswear,Vistara Sportswear 23,8389.6,4898.38,215,4.2,2834
+P00948,Sports,Sportswear,Aarohi Sportswear 24,1503.06,953.06,28,3.6,2278
+P00949,Sports,Sportswear,GlowCare Sportswear 25,10255.68,6404.89,702,4.5,799
+P00950,Sports,Sportswear,Zenith Sportswear 26,11311.12,6451.93,659,3.9,4055
+P00951,Sports,Sportswear,DailyKart Sportswear 27,9231.11,6026.75,995,4.6,4579
+P00952,Sports,Sportswear,ByteMax Sportswear 28,3207.03,2340.55,631,3.5,4783
+P00953,Sports,Sportswear,ByteMax Sportswear 29,6970.88,4455.9,528,4.8,3869
+P00954,Sports,Sportswear,GlowCare Sportswear 30,4691.5,2429.73,73,3.7,4497
+P00955,Sports,Sportswear,ByteMax Sportswear 31,8818.29,6380.24,106,3.6,476
+P00956,Sports,Sportswear,Zenith Sportswear 32,14524.68,7385.05,906,4.3,2643
+P00957,Sports,Sportswear,NovaTech Sportswear 33,6492.57,3961.26,890,4,327
+P00958,Sports,Sportswear,Vistara Sportswear 34,2276.93,1161.34,995,3.4,1102
+P00959,Sports,Sportswear,NovaTech Sportswear 35,5996.78,3600.03,651,4.4,3949
+P00960,Sports,Sportswear,GlowCare Sportswear 36,5367.06,2792.29,190,3.8,4200
+P00961,Sports,Sportswear,Aarohi Sportswear 37,10691.62,7756.47,359,4.7,3982
+P00962,Sports,Sportswear,UrbanNest Sportswear 38,4406.38,2174.53,159,4.1,3499
+P00963,Sports,Sportswear,Zenith Sportswear 39,10250.83,7272.93,907,3.6,4435
+P00964,Sports,Sportswear,FitPro Sportswear 40,7151.69,5365.05,989,3.5,1643
+P00965,Sports,Sportswear,Zenith Sportswear 41,2669.35,1556,113,3.7,952
+P00966,Sports,Sportswear,DailyKart Sportswear 42,3183.68,1581.44,839,3.8,198
+P00967,Sports,Equipment,Zenith Equipment 01,8176.05,6142.25,628,4.9,4343
+P00968,Sports,Equipment,FitPro Equipment 02,10724.92,6604.65,666,4,3148
+P00969,Sports,Equipment,Zenith Equipment 03,10843.92,6335.59,197,4.6,122
+P00970,Sports,Equipment,Aarohi Equipment 04,6866.52,4115.23,21,3.9,1227
+P00971,Sports,Equipment,DailyKart Equipment 05,6268.24,4049.1,797,3.9,328
+P00972,Sports,Equipment,Vistara Equipment 06,8466.82,4791.15,136,4.7,3035
+P00973,Sports,Equipment,Aarohi Equipment 07,1579.43,1076.81,129,4.4,1608
+P00974,Sports,Equipment,GlowCare Equipment 08,2662.19,1954.08,157,4.1,3400
+P00975,Sports,Equipment,FitPro Equipment 09,11553.89,7426.46,665,4.2,1951
+P00976,Sports,Equipment,Zenith Equipment 10,5694.97,3849.05,974,4.9,978
+P00977,Sports,Equipment,NovaTech Equipment 11,2659.8,1789.69,215,4.1,1715
+P00978,Sports,Equipment,UrbanNest Equipment 12,10430.08,5657.82,340,4.3,4232
+P00979,Sports,Equipment,Vistara Equipment 13,11534.54,8697.91,95,4.9,2578
+P00980,Sports,Equipment,Zenith Equipment 14,11691.53,8756.96,800,3.5,4233
+P00981,Sports,Equipment,UrbanNest Equipment 15,11389.94,6328.37,738,3.7,374
+P00982,Sports,Equipment,GlowCare Equipment 16,9298.47,5145.76,495,4.6,4122
+P00983,Sports,Equipment,FitPro Equipment 17,1261.89,668.36,93,4,4773
+P00984,Sports,Equipment,Zenith Equipment 18,9504.25,5694.36,571,3.4,4538
+P00985,Sports,Equipment,FitPro Equipment 19,12566.44,7890.58,36,3.6,3745
+P00986,Sports,Equipment,GlowCare Equipment 20,557.11,276.79,105,3.6,1536
+P00987,Sports,Equipment,HomeEase Equipment 21,4610.41,2748.7,574,3.7,3582
+P00988,Sports,Equipment,ByteMax Equipment 22,4295.65,2985.99,292,3.8,2263
+P00989,Sports,Equipment,Vistara Equipment 23,14017.74,8893.65,687,4.7,2129
+P00990,Sports,Equipment,NovaTech Equipment 24,14843.45,8086.67,98,4.7,1836
+P00991,Sports,Equipment,DailyKart Equipment 25,14239.61,10695.19,945,4.2,3735
+P00992,Sports,Equipment,Zenith Equipment 26,11979.06,7728.55,142,3.7,2110
+P00993,Sports,Equipment,DailyKart Equipment 27,2710.2,1437.63,602,3.9,2525
+P00994,Sports,Equipment,ByteMax Equipment 28,14439.05,9442.51,380,4.4,1545
+P00995,Sports,Equipment,DailyKart Equipment 29,7504.82,4971.14,872,4.2,2084
+P00996,Sports,Equipment,DailyKart Equipment 30,5271.69,4068.61,277,3.9,1802
+P00997,Sports,Equipment,Vistara Equipment 31,11273.19,8759.19,825,4.1,1703
+P00998,Sports,Equipment,NovaTech Equipment 32,569.08,398.34,510,3.6,3558
+P00999,Sports,Equipment,HomeEase Equipment 33,6947.93,4732.62,844,4,651
+P01000,Sports,Equipment,DailyKart Equipment 34,4667.58,3629.51,878,3.7,4003
+P01001,Sports,Equipment,HomeEase Equipment 35,8252.39,6335.94,897,4,2647
+P01002,Sports,Equipment,Vistara Equipment 36,9207.26,5823.4,715,3.5,3894
+P01003,Sports,Equipment,GlowCare Equipment 37,5908.54,3807.25,176,4.5,2322
+P01004,Sports,Equipment,DailyKart Equipment 38,1259,618.79,905,4.1,4950
+P01005,Sports,Equipment,DailyKart Equipment 39,11376.2,6239.95,217,4.2,4424
+P01006,Sports,Equipment,Vistara Equipment 40,10577.41,6028.59,855,4.4,319
+P01007,Sports,Equipment,UrbanNest Equipment 41,2604.19,1762.31,388,3.6,3140
+P01008,Sports,Equipment,Aarohi Equipment 42,3120.83,1611.27,534,3.8,4856
